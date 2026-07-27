@@ -34,25 +34,6 @@
 
 ---
 
-## 🎮 Interactive Contribution Graphs & Animations
-
-### 🧊 3D Contribution Graph
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" onerror="this.style.display='none'" />
-</p>
-
-### 📈 Activity & Contribution Wave
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FROSTY-MUG&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-### 🐍 Snake Eating Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-user-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
-</p>
-
----
-
 ## 🏆 Hackathon Wins
 
 | Event | Project | Result |
@@ -121,15 +102,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f&icon_color=a855f7&title_color=a855f7" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROSTY-MUG&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f&title_color=a855f7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f&icon_color=a855f7&title_color=a855f7" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROSTY-MUG&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f&title_color=a855f7" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=FROSTY-MUG&theme=tokyonight&background=1a1b27&border=2d2d3f&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=FROSTY-MUG&theme=tokyonight&background=1a1b27&border=2d2d3f&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="Streak Stats" />
 </p>
 
 ---
