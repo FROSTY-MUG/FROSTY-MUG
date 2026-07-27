@@ -1,11 +1,29 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/banner.png" width="100%" alt="Late Night Coding — Aryan Arora" />
+  <img src="banner.png" width="100%" alt="Late Night Coding — Aryan Arora" />
 </p>
 
-<h1 align="center">☕ Hey there, I'm Aryan Arora</h1>
+<h1 align="center">Hey there, I'm Aryan Arora</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4A373&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%E2%98%95+Fueled+by+coffee%2C+driven+by+curiosity;%F0%9F%8C%99+Best+code+is+written+after+midnight;%F0%9F%A7%A0+AI+Product+Engineer+%7C+Full-Stack+Developer;%F0%9F%8F%86+4x+Hackathon+Champion+%7C+IIT+Roorkee+Winner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=86400000&color=D4A373&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Fueled+by+coffee%2C+driven+by+curiosity." alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<details>
+<summary>Table of Contents</summary>
+<ul>
+  <li><a href="#about-me">About Me</a></li>
+  <li><a href="#quotes-i-live-by">Quotes I Live By</a></li>
+  <li><a href="#hackathon-achievements">Hackathon Achievements</a></li>
+  <li><a href="#featured-projects">Featured Projects</a></li>
+  <li><a href="#languages-tools">Languages & Tools</a></li>
+  <li><a href="#github-stats">GitHub Stats</a></li>
+  <li><a href="#3d-contribution-matrix">3D Contribution Matrix</a></li>
+  <li><a href="#coffee-bean-contribution-snake">Coffee Bean Contribution Snake</a></li>
+  <li><a href="#random-dev-quote">Random Dev Quote</a></li>
+  <li><a href="#connect-with-me">Connect With Me</a></li>
+</ul>
+</details>
 </p>
 
 <p align="center">
@@ -18,27 +36,30 @@
   <img src="https://komarev.com/ghpvc/?username=FROSTY-MUG&label=Profile+Views&color=D4A373&style=for-the-badge" alt="views" />
 </p>
 
----
-
-## ☕ About Me
-
-I'm **Aryan Arora** — a second-year **B.Tech Computer Science** student specializing in **AI & Machine Learning (Honours)** at **Graphic Era University, Dehradun**. I live in that sweet spot where late-night coffee meets clean code.
-
-I build **AI-powered products** that actually solve real problems — from multi-agent LLM orchestration systems to full-stack platforms that ship to production. I don't just write code; I architect intelligent systems that think, adapt, and deliver.
-
-🔭 **Currently Building**: Multi-agent AI orchestration pipelines with consensus mechanisms — systems where multiple LLMs collaborate, debate, and reach better decisions together.
-
-🧠 **Deep Expertise**: RAG architectures with vector databases, real-time computer vision (MediaPipe @ 32 FPS), prompt engineering, and multi-model inference pipelines spanning GPT-4, Gemini, Groq, and more.
-
-🏆 **Hackathon Track Record**: 4x First Place champion including **IIT Roorkee FinCortex** (200+ teams), **Logixcape IEEE** (300+ participants), **Kindle Junior 4.0**, and **DigiTech Titans**. I thrive under pressure and tight deadlines.
-
-🔐 **Beyond AI**: Strong foundations in cybersecurity, networking protocols, cloud infrastructure, and system design. I believe a great AI engineer must also be a great systems engineer.
-
-🌙 **Fun Fact**: My most productive hours are between midnight and 4 AM — fueled by black coffee and lo-fi beats.
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=FROSTY-MUG&theme=tokyonight&row=1&column=7" alt="trophy" /></p>
 
 ---
 
-## 💬 Quotes I Live By
+## About Me
+
+Hi, I'm Aryan Arora — a builder at heart. I thrive on turning ideas into tangible solutions that serve society, whether it's an AI‑powered platform that helps students find their perfect career path or a multi‑agent web OS that lets people interact with technology through voice, gesture, and consensus‑driven AI.
+
+Currently a second‑year B.Tech Computer Science (AI & Machine Learning Honours) student at Graphic Era University, Dehradun, I spend my late‑night hours coding, experimenting, and learning — driven by black coffee, lo‑fi beats, and an insatiable curiosity about how systems work. My expertise spans:
+- Architecting multi‑agent LLM orchestration pipelines with consensus mechanisms
+- Building high‑performance RAG pipelines using vector databases (Pinecone)
+- Real‑time computer vision with MediaPipe (~32 FPS)
+- Prompt engineering and multi‑model inference (GPT‑4, Gemini, Groq)
+- Full‑stack development (Next.js, React, TypeScript, Node.js, TailwindCSS, Firebase, Vercel)
+- Cybersecurity fundamentals, networking, cloud infrastructure, and system design
+
+A four‑time hackathon champion (IIT Roorkee FinCortex, Logixcape IEEE, Kindle Junior 4.0, DigiTech Titans), I excel under pressure and tight deadlines, delivering production‑ready solutions that win awards and solve real problems.
+
+Beyond AI, I see myself as a systems thinker: I believe a great AI engineer must also be a great systems engineer, which is why I continuously dive into networking protocols, cloud architecture, and security best practices.
+
+When I’m not building, you’ll find me exploring new frameworks, contributing to open‑source, or sharing knowledge through tech talks and blog posts. My mission is simple: create technology that empowers people, learns from every iteration, and pushes the boundaries of what’s possible.
+---
+
+## Quotes I Live By
 
 > *"Simplicity is the ultimate sophistication — and the ultimate debugging strategy."*
 > — Aryan Arora
@@ -51,29 +72,25 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 🏆 Hackathon Achievements
+## Hackathon Achievements
 
 <table>
 <tr>
-<td align="center">🥇</td>
 <td><b>IIT Roorkee FinCortex Hackathon</b></td>
 <td>Built Synapse OS — a multi-agent Web OS with voice, gesture & LLM consensus in 72 hrs</td>
 <td><b>1st / 200+ teams</b></td>
 </tr>
 <tr>
-<td align="center">🥇</td>
 <td><b>Logixcape IEEE Hackathon</b></td>
 <td>Ranked 1st across 3 intensive technical rounds</td>
 <td><b>1st / 300+ participants</b></td>
 </tr>
 <tr>
-<td align="center">🥇</td>
 <td><b>Kindle Junior 4.0 (IEEE - GEU)</b></td>
 <td>Built CareerPath — AI career guidance platform</td>
 <td><b>1st / 115+ students</b></td>
 </tr>
 <tr>
-<td align="center">🥇</td>
 <td><b>DigiTech Titans Hackathon</b></td>
 <td>Completed 8 technical challenges in 84 minutes flat</td>
 <td><b>1st / 100+ participants</b></td>
@@ -82,10 +99,10 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>🧠 Synapse OS — Multi-Agent AI Web Operating System</b> &nbsp; <i>🏆 1st Place @ IIT Roorkee FinCortex</i></summary>
+<summary><b>Synapse OS — Multi-Agent AI Web Operating System</b> &nbsp; | &nbsp; <i>1st Place @ IIT Roorkee FinCortex</i></summary>
 <br/>
 
 > A full-fledged web-based operating system powered by multiple AI agents working in parallel.
@@ -99,7 +116,7 @@ I build **AI-powered products** that actually solve real problems — from multi
 </details>
 
 <details>
-<summary><b>🎯 CareerPath — AI Career Guidance Platform</b> &nbsp; <i>🏆 1st Place @ Kindle Junior 4.0</i></summary>
+<summary><b>CareerPath — AI Career Guidance Platform</b> &nbsp; | &nbsp; <i>1st Place @ Kindle Junior 4.0</i></summary>
 <br/>
 
 > Personalized career recommendations through multi-stage LLM assessment workflows.
@@ -112,7 +129,7 @@ I build **AI-powered products** that actually solve real problems — from multi
 </details>
 
 <details>
-<summary><b>✍️ Voices of Ink — AI Writing Platform</b> &nbsp; <i>AI Product Design & Prompt Engineering</i></summary>
+<summary><b>Voices of Ink — AI Writing Platform</b> &nbsp; | &nbsp; <i>AI Product Design & Prompt Engineering</i></summary>
 <br/>
 
 > Multi-persona AI content generation with 9 distinct stylistic writing personas.
@@ -126,7 +143,9 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -134,12 +153,22 @@ I build **AI-powered products** that actually solve real problems — from multi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+**AI & Machine Learning**
+
+<p>
   <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=speedtest&logoColor=white" alt="Groq" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+**Frameworks & Infrastructure**
+
+<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -152,7 +181,7 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=D4A373&icon_color=D4A373&title_color=D4A373&text_color=c9d1d9&ring_color=D4A373" alt="GitHub Stats" />
@@ -166,7 +195,7 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 🌙 3D Contribution Matrix
+## 3D Contribution Matrix
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/profile-3d-contrib/coffee-snake-3d.svg" alt="3D Coffee Bean Contribution Matrix" width="100%" />
@@ -174,7 +203,7 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## ☕ Coffee Bean Contribution Snake
+## Coffee Bean Contribution Snake
 
 <p align="center">
   <picture>
@@ -186,7 +215,7 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_color=D4A373" alt="Dev Quote" />
@@ -194,7 +223,14 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 🌐 Connect With Me
+## Recent Activity
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=FROSTY-MUG&theme=tokyonight&custom_title=Aryan%27s%20Activity&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+## Connect With Me
 
 <p align="center">
   <a href="mailto:aryanarora26110@gmail.com">
@@ -217,5 +253,5 @@ I build **AI-powered products** that actually solve real problems — from multi
 </p>
 
 <p align="center">
-  <i>☕ Late nights, strong coffee, clean code. That's the way.</i>
+  <i>Late nights, strong coffee, clean code. That's the way.</i>
 </p>
