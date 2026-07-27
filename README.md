@@ -1,187 +1,123 @@
-<p align="center">
-  <img src="banner.png" alt="Aryan Arora Banner" width="100%" />
-</p>
+<img src="banner.png" width="100%" />
 
-<h1 align="center">⚡ ARYAN ARORA ⚡</h1>
-<p align="center">
-  <b>AI Product Engineer | Full-Stack Developer | Tech & Cybersecurity Enthusiast</b>
-</p>
+<h1 align="center">Hey there, I'm Aryan 👋</h1>
+
+<h3 align="center">AI Product Engineer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=45&lines=AI+Product+Engineer;Full-Stack+Developer;Cybersecurity+%26+Networking+Lover;Building+Intelligent+Agent+Orchestration" alt="Typing SVG" /></a>
-</p>
-
----
-
-### 🌌 Profile Overview
-
-First-year Computer Science student specializing in **AI-augmented product development** with a proven ability to architect and ship production-grade applications. Passionate about integrating LLMs/AI, rapid prototyping, and multi-modal system design. Has a strong track record of winning competitive hackathons and designing robust architectures.
-
-```yaml
-astral_projection:
-  role: "AI Product Engineer | Full-Stack Developer"
-  location: "Graphic Era University, Dehradun (PCM at The Aryan School)"
-  core_passions: 
-    - "Cybersecurity & Networking"
-    - "AI, Deep Learning & NLP"
-    - "Intelligent Systems & AI Orchestration"
-    - "Multi-Modal AI & Computer Vision"
-  fun_fact: "First place winner at IIT Roorkee hackathon"
-```
-
----
-
-### 🏆 Hackathon Achievements & Hall of Fame
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Event</b></td>
-      <td align="center"><b>Project / Role</b></td>
-      <td align="center"><b>Result / Rank</b></td>
-      <td align="center"><b>Details</b></td>
-    </tr>
-    <tr>
-      <td><b>IIT Roorkee FinCortex Hackathon</b></td>
-      <td><b>Synapse OS</b> (Multi-Agent Web OS)</td>
-      <td>🏆 <font color="#00F0FF"><b>1st Place Winner</b></font></td>
-      <td>Beat 200+ teams, built voice, gesture & multi-agent pipeline in 72 hours.</td>
-    </tr>
-    <tr>
-      <td><b>Logixcape IEEE Hackathon</b></td>
-      <td><b>Graphic Era University</b></td>
-      <td>🏆 <font color="#FF007F"><b>1st Place Winner</b></font></td>
-      <td>Ranked 1st among 300+ participants in logical debugging & escape room.</td>
-    </tr>
-    <tr>
-      <td><b>Kindle Junior 4.0 (IEEE - GEU)</b></td>
-      <td><b>CareerPath</b> (AI Career Platform)</td>
-      <td>🏆 <font color="#00F0FF"><b>1st Place Winner</b></font></td>
-      <td>Ranked 1st among 115+ students in multi-round technical competition.</td>
-    </tr>
-    <tr>
-      <td><b>DigiTech Titans Hackathon</b></td>
-      <td><b>District-Level Competition</b></td>
-      <td>🏆 <font color="#FF007F"><b>1st Place Winner</b></font></td>
-      <td>Completed 8 intensive technical challenges in 84 minutes.</td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🚀 Featured Projects
-
-#### ⚡ [Synapse OS](https://github.com/FROSTY-MUG/Synapse-OS) – Multi-Agent AI Web Operating System
-> **1st Place at IIT Roorkee FinCortex Hackathon | Feb 2026**
-*   **Concept**: AI-powered Web OS enabling voice, gesture, and multi-agent workflows for real-time financial analysis.
-*   **Implementation**:
-    *   Built a multi-agent system integrating Gemini, GPT-4, and Groq with parallel execution and consensus mechanisms.
-    *   Developed a high-performance RAG pipeline using Pinecone for contextual data retrieval.
-    *   Engineered gesture control using MediaPipe (~32 FPS) and a multi-modal responsive UI.
-    *   Integrated OAuth 2.0 (Google, Spotify) and implemented Firebase-based analytics.
-*   **Tech Stack**: `Next.js 15`, `TypeScript`, `React 19`, `Firebase`, `MediaPipe`, `OpenAI`, `Google GenAI`, `Groq`, `Pinecone`, `Vercel`
-
-#### 🔮 [CareerPath](https://github.com/FROSTY-MUG/CareerPath) – AI Career Guidance Platform
-> **Winner – Kindle Junior 4.0 | Oct 2025**
-*   **Concept**: AI-powered career recommendation system delivering personalized guidance through multi-stage assessment.
-*   **Implementation**:
-    *   Built full-stack application using Next.js and LLM APIs for intelligent recommendations.
-    *   Implemented secure authentication, recommendation engine, and responsive UI.
-    *   Deployed on Vercel with CI/CD via GitHub Actions.
-*   **Tech Stack**: `Next.js`, `React`, `AI APIs (Gemini/GPT)`, `Vercel`, `GitHub Actions`
-
-#### ✒️ [Voices of Ink](https://github.com/FROSTY-MUG/Voices-of-Ink) – AI Writing Platform
-> **AI Product Design & Prompt Engineering | 2025**
-*   **Concept**: AI writing platform with multiple personas featuring distinct emotional tones and styles.
-*   **Implementation**:
-    *   Designed 9 writing personas with unique tone and stylistic depth.
-    *   Built low-detection architecture for human-like content generation.
-*   **Tech Stack**: `Next.js`, `TypeScript`, `TailwindCSS`, `AI APIs`, `Vercel`
-
----
-
-### 🛠️ Technical Stack & Skills
-
-<details open>
-<summary><b>🧠 AI, Deep Learning & NLP</b></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/Gemini_API-00F0FF?style=for-the-badge&logo=google&logoColor=black" alt="Gemini" />
-  <img src="https://img.shields.io/badge/GPT--4-FF007F?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
-  <img src="https://img.shields.io/badge/Groq_API-00F0FF?style=for-the-badge&logo=speedtest&logoColor=black" alt="Groq" />
-  <img src="https://img.shields.io/badge/Pinecone-0f0f1b?style=for-the-badge&logo=pinecone&logoColor=00F0FF" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/MediaPipe-FF007F?style=for-the-badge&logo=opencv&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Deep_Learning-00F0FF?style=for-the-badge&logo=pytorch&logoColor=black" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/AI_Orchestration-FF007F?style=for-the-badge&logo=cpu&logoColor=white" alt="AI Orchestration" />
-</p>
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages & Web Development</b></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛡️ Security, Networking & Backend Tools</b></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-3F51B5?style=for-the-badge&logo=google&logoColor=white" alt="OAuth 2" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF007F?style=for-the-badge&logo=secureflight&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Networking-00F0FF?style=for-the-badge&logo=routerboard&logoColor=black" alt="Networking" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Cursor_IDE-00F0FF?style=for-the-badge&logo=cursor&logoColor=black" alt="Cursor" />
-</p>
-</details>
-
----
-
-### 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&bg_color=0f0f1b&title_color=ff007f&text_color=00f0ff&icon_color=ff007f&border_color=00f0ff" alt="Aryan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROSTY-MUG&layout=compact&theme=tokyonight&bg_color=0f0f1b&title_color=ff007f&text_color=00f0ff&icon_color=ff007f&border_color=00f0ff" alt="Top Languages" width="48%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=435&lines=AI+Product+Engineer;Cybersecurity+%26+Networking;Deep+Learning+%7C+NLP;Multi-Model+AI+Orchestration;Intelligent+Systems+Builder" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FROSTY-MUG&theme=tokyonight&background=0f0f1b&ring=ff007f&fire=ff007f&currStreakNum=00f0ff&sideNums=00f0ff&sideLabels=00f0ff&dates=00f0ff" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-### 🤝 Leadership & Community
-
-*   **Head of Logistics & Core Organizing Committee** | IGC Model United Nations, Dehradun | Nov 2025
-    *   Managed end-to-end logistics and operations for 200+ delegates across a three-day international conference.
-*   **Founder & President** | Computer Science Club | The Aryan School | 2024 - 2025
-    *   Founded the technical club, organized 12+ project exhibitions and workshops for the student community.
-*   **School Coordinator & Student Council Member** | The Aryan School | 2024 - 2025
-    *   Coordinated logistics and technical operations for events hosting 400+ guests.
-
----
-
-### 📬 Telecommunications / Connect
-
-Feel free to ping me for collaborations on AI Orchestration, Cybersecurity projects, or deep learning systems!
-
-<p align="left">
-  <a href="mailto:aryanarora26110@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aryanarora26110%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  <a href="https://github.com/FROSTY-MUG?tab=followers">
+    <img src="https://img.shields.io/github/followers/FROSTY-MUG?label=Followers&style=social" alt="followers" />
   </a>
-  <a href="https://linkedin.com/in/aryan-arora-ai">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/FROSTY-MUG">
-    <img src="https://img.shields.io/badge/GitHub-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/github/stars/FROSTY-MUG?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=FROSTY-MUG&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **First-year CS student** at Graphic Era University, Dehradun
+- 🧠 Building **AI-powered products** — from multi-agent systems to intelligent orchestration pipelines
+- 🏆 **1st Place Winner** at **IIT Roorkee FinCortex Hackathon** (beat 200+ teams)
+- 🏆 **1st Place** at Logixcape IEEE Hackathon, Kindle Junior 4.0, & DigiTech Titans
+- 🔐 Passionate about **Cybersecurity & Networking**
+- 🤖 Love building with **AI, Deep Learning, NLP, and Computer Vision**
+- ⚙️ Into **AI Orchestration, Multi-Model AI, and Intelligent Systems**
+- ☕ Late night coding sessions & coffee — that's the workflow
+- 📫 Reach me at **aryanarora26110@gmail.com**
+
+---
+
+## 🏆 Hackathon Wins
+
+| Event | Project | Result |
+|-------|---------|--------|
+| **IIT Roorkee FinCortex Hackathon** | Synapse OS (Multi-Agent Web OS) | 🥇 **1st Place** — 200+ teams |
+| **Logixcape IEEE Hackathon** | Logical Debugging & Escape Room | 🥇 **1st Place** — 300+ participants |
+| **Kindle Junior 4.0 (IEEE - GEU)** | CareerPath (AI Career Platform) | 🥇 **1st Place** — 115+ students |
+| **DigiTech Titans Hackathon** | District-Level Competition | 🥇 **1st Place** — 8 challenges in 84 min |
+
+---
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/FROSTY-MUG/Synapse-OS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FROSTY-MUG&repo=Synapse-OS&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f" />
+</a>
+<a href="https://github.com/FROSTY-MUG/CareerPath">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FROSTY-MUG&repo=CareerPath&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f" />
+</a>
+
+**Synapse OS** — Multi-agent AI Web OS with voice, gesture, and multi-agent workflows. Built with Next.js 15, React 19, Gemini, GPT-4, Groq, Pinecone, MediaPipe, Firebase. Won 1st place at IIT Roorkee.
+
+**CareerPath** — AI-powered career guidance platform with personalized recommendations. Built with Next.js, React, AI APIs. Won Kindle Junior 4.0.
+
+**Voices of Ink** — AI writing platform with 9 unique personas and distinct emotional tones. Built with Next.js, TypeScript, TailwindCSS.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI & ML**
+
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=speedtest&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+**Tools & Platforms**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f&icon_color=a855f7&title_color=a855f7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROSTY-MUG&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f&title_color=a855f7" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=FROSTY-MUG&theme=tokyonight&background=1a1b27&border=2d2d3f&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
+</p>
+
+---
+
+## 🤝 Leadership
+
+- **Head of Logistics** — IGC Model United Nations, Dehradun (200+ delegates)
+- **Founder & President** — Computer Science Club, The Aryan School
+- **School Coordinator** — Student Council, The Aryan School
+
+---
+
+## 📬 Connect
+
+[![Email](https://img.shields.io/badge/aryanarora26110@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanarora26110@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-arora-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FROSTY-MUG)
