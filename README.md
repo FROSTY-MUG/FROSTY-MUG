@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/banner.png" width="100%" alt="Late Night Coding Setup — Aryan Arora" />
+  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/banner.png" width="100%" alt="Late Night Coding — Aryan Arora" />
 </p>
 
 <h1 align="center">☕ Hey there, I'm Aryan Arora</h1>
@@ -18,13 +18,9 @@
   <img src="https://komarev.com/ghpvc/?username=FROSTY-MUG&label=Profile+Views&color=D4A373&style=for-the-badge" alt="views" />
 </p>
 
-<br/>
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/banner.png" alt="Night Coding" style="border-radius: 12px;" />
+---
 
 ## ☕ About Me
-
-> *"The best error messages are the ones you see at 3 AM with a fresh cup of coffee."*
 
 I'm **Aryan Arora** — a second-year **B.Tech Computer Science** student specializing in **AI & Machine Learning (Honours)** at **Graphic Era University, Dehradun**. I live in that sweet spot where late-night coffee meets clean code.
 
@@ -38,9 +34,20 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 🔐 **Beyond AI**: Strong foundations in cybersecurity, networking protocols, cloud infrastructure, and system design. I believe a great AI engineer must also be a great systems engineer.
 
-🌙 **Fun Fact**: My most productive hours are between midnight and 4 AM — fueled by black coffee and lo-fi beats. The banner above? That's basically my life.
+🌙 **Fun Fact**: My most productive hours are between midnight and 4 AM — fueled by black coffee and lo-fi beats.
 
-<br clear="both"/>
+---
+
+## 💬 Quotes I Live By
+
+> *"Simplicity is the ultimate sophistication — and the ultimate debugging strategy."*
+> — Aryan Arora
+
+> *"The best way to win is to take everything seriously and just show up, no matter the `exceptions` — you can always `catch` them later."*
+> — Aryan Arora
+
+> *"Ship it at 3 AM or don't ship it at all. The compiler doesn't judge your sleep schedule."*
+> — Aryan Arora
 
 ---
 
@@ -119,35 +126,9 @@ I build **AI-powered products** that actually solve real problems — from multi
 
 ---
 
-## 🛠️ Languages & Tools I Work With
+## 🛠️ Languages & Tools
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**AI & Machine Learning**
-
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=speedtest&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Frameworks & Infrastructure**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=speedtest&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -168,18 +149,18 @@ I build **AI-powered products** that actually solve real problems — from multi
 ## 🌙 3D Contribution Matrix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/profile-3d-contrib/coffee-snake-3d.svg" alt="3D Coffee Bean Snake Contribution Matrix" width="100%" />
+  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/profile-3d-contrib/coffee-snake-3d.svg" alt="3D Coffee Bean Contribution Matrix" width="100%" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## ☕ Coffee Bean Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="Coffee Bean Contribution Snake — grows as it devours coffee-colored contributions" src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
