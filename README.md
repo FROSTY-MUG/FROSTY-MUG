@@ -3,23 +3,35 @@
   <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/banner.png" width="100%" alt="Late Night Coding — Aryan Arora" />
 </p>
 
+<br/>
+
 <h1 align="center">Hey there, I'm Aryan Arora</h1>
+
+<h3 align="center">AI Product Engineer &bull; Full-Stack Developer</h3>
+
+<br/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=86400000&color=D4A373&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Fueled+by+coffee%2C+driven+by+curiosity." alt="Typing SVG" /></a>
 </p>
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/FROSTY-MUG?tab=followers">
     <img src="https://img.shields.io/github/followers/FROSTY-MUG?label=Followers&style=for-the-badge&color=D4A373&labelColor=14141e&logo=github" alt="followers" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/FROSTY-MUG?label=Stars&style=for-the-badge&color=D4A373&labelColor=14141e&logo=github" alt="stars" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=FROSTY-MUG&label=Profile+Views&color=D4A373&style=for-the-badge" alt="views" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ## About Me
 
@@ -40,7 +52,11 @@ Beyond AI, I see myself as a systems thinker: I believe a great AI engineer must
 
 When I'm not building, you'll find me exploring new frameworks, contributing to open-source, or sharing knowledge through tech talks and blog posts. My mission is simple: create technology that empowers people, learns from every iteration, and pushes the boundaries of what's possible.
 
+<br/>
+
 ---
+
+<br/>
 
 ## Quick Reference
 
@@ -56,7 +72,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
 | **LinkedIn** | [aryanaroracs](https://linkedin.com/in/aryanaroracs) |
 | **Email** | [aryanarora26110@gmail.com](mailto:aryanarora26110@gmail.com) |
 
+<br/>
+
 ---
+
+<br/>
 
 ## Quotes I Live By
 
@@ -69,7 +89,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
 > *"Ship it at 3 AM or don't ship it at all. The compiler doesn't judge your sleep schedule."*
 > — Aryan Arora
 
+<br/>
+
 ---
+
+<br/>
 
 ## What I Do
 
@@ -83,7 +107,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
 | **Systems & Security** | Apply networking, cloud, and security fundamentals to AI workloads | OAuth 2.0 auth, Firebase telemetry, Dockerized deployments |
 | **Open Source & Community** | Contribute, share knowledge, and mentor peers | Public repos, tech talks, hackathon mentoring |
 
+<br/>
+
 ---
+
+<br/>
 
 ## Hackathon Achievements
 
@@ -94,7 +122,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
 | **Kindle Junior 4.0 (IEEE - GEU)** | CareerPath | **1st** | AI career guidance platform (115+ first-year students) |
 | **DigiTech Titans** | Tech Competition | **1st** | Completed 8 technical challenges in 84 minutes (100+ participants) |
 
+<br/>
+
 ---
+
+<br/>
 
 ## Featured Projects
 
@@ -144,7 +176,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
 
 </details>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Languages & Tools
 
@@ -182,7 +218,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Trophies
 
@@ -190,13 +230,17 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
   <img src="https://github-profile-trophy.vercel.app/?username=FROSTY-MUG&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=D4A373&icon_color=D4A373&title_color=D4A373&text_color=c9d1d9&ring_color=D4A373&hide_border=false" alt="GitHub Stats" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROSTY-MUG&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=D4A373&title_color=D4A373&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
 </p>
 
@@ -204,15 +248,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
   <img width="60%" src="https://streak-stats.demolab.com/?user=FROSTY-MUG&theme=tokyonight&background=0d1117&border=D4A373&stroke=D4A373&ring=D4A373&fire=FF6B35&currStreakLabel=D4A373&sideLabels=D4A373&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
 </p>
 
----
-
-## 3D Contribution Matrix
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/profile-3d-contrib/coffee-snake-3d.svg" alt="3D Coffee Bean Contribution Matrix" width="100%" />
-</p>
+<br/>
 
 ---
+
+<br/>
 
 ## Coffee Bean Contribution Snake
 
@@ -224,7 +264,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
   </picture>
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Random Dev Quote
 
@@ -232,7 +276,11 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_color=D4A373" alt="Dev Quote" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Connect With Me
 
@@ -240,15 +288,17 @@ When I'm not building, you'll find me exploring new frameworks, contributing to 
   <a href="mailto:aryanarora26110@gmail.com">
     <img src="https://img.shields.io/badge/Email-aryanarora26110@gmail.com-D4A373?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/aryanaroracs">
     <img src="https://img.shields.io/badge/LinkedIn-aryanaroracs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/FROSTY-MUG">
     <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
+
+<br/>
 
 ---
 
