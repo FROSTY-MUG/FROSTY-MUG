@@ -1,4 +1,6 @@
-<img src="banner.png" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/banner.png" width="100%" alt="Aryan Arora Banner" />
+</p>
 
 <h1 align="center">Hey there, I'm Aryan 👋</h1>
 
@@ -32,8 +34,19 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🎮 Interactive Contribution Graphs & Animations
 
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" onerror="this.style.display='none'" />
+</p>
+
+### 📈 Activity & Contribution Wave
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FROSTY-MUG&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+### 🐍 Snake Eating Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-user-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
 </p>
@@ -53,18 +66,23 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/FROSTY-MUG/Synapse-OS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FROSTY-MUG&repo=Synapse-OS&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f" />
-</a>
-<a href="https://github.com/FROSTY-MUG/CareerPath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FROSTY-MUG&repo=CareerPath&theme=tokyonight&bg_color=1a1b27&border_color=2d2d3f" />
-</a>
+### ⚡ Synapse OS — Multi-Agent AI Web Operating System
+> **🏆 1st Place Winner at IIT Roorkee FinCortex Hackathon | Feb 2026**
+- **Concept**: AI-powered Web OS enabling voice, gesture, and multi-agent workflows for real-time financial analysis.
+- **Key Features**: Multi-agent consensus system (Gemini, GPT-4, Groq), Pinecone RAG pipeline, MediaPipe gesture control (~32 FPS), Firebase auth/session tracking.
+- **Tech**: `Next.js 15` • `React 19` • `TypeScript` • `MediaPipe` • `Pinecone` • `Groq` • `Gemini` • `Firebase`
 
-<br/><br/>
+### 🔮 CareerPath — AI Career Guidance Platform
+> **🏆 Winner at Kindle Junior 4.0 (IEEE - GEU) | Oct 2025**
+- **Concept**: AI-powered career recommendation system delivering personalized guidance through multi-stage assessment.
+- **Key Features**: Full-stack Next.js app with LLM recommendation engine, responsive UI, automated CI/CD deployment via GitHub Actions.
+- **Tech**: `Next.js` • `React` • `AI APIs (Gemini/GPT)` • `Vercel` • `GitHub Actions`
 
-- **Synapse OS** — Multi-agent AI Web OS with voice, gesture, and multi-agent workflows. Built with Next.js 15, React 19, Gemini, GPT-4, Groq, Pinecone, MediaPipe, Firebase. Won 1st place at IIT Roorkee.
-- **CareerPath** — AI-powered career guidance platform with personalized recommendations. Built with Next.js, React, AI APIs. Won Kindle Junior 4.0.
-- **Voices of Ink** — AI writing platform with 9 unique personas and distinct emotional tones. Built with Next.js, TypeScript, TailwindCSS.
+### ✒️ Voices of Ink — AI Writing Platform
+> **AI Product Design & Prompt Engineering | 2025**
+- **Concept**: AI writing platform featuring 9 unique personas with distinct emotional tones and styles.
+- **Key Features**: Low-detection human-like content generation architecture, responsive design.
+- **Tech**: `Next.js` • `TypeScript` • `TailwindCSS` • `AI APIs` • `Vercel`
 
 ---
 
