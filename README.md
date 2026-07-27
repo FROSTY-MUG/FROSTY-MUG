@@ -34,6 +34,18 @@
 
 ---
 
+## 🧊 3D Contribution Graph & 🐍 Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/profile-3d-contrib/github-user-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
+</p>
+
+---
+
 ## 🏆 Hackathon Wins
 
 | Event | Project | Result |

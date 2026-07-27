@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="850" height="200">
+  <rect width="100%" height="100%" fill="#1a1b27" rx="10"/>
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: 600; fill: #39d353; }
+    .snake-body { fill: #39d353; }
+    .snake-head { fill: #00f0ff; }
+    .cell-0 { fill: #161b22; }
+    .cell-1 { fill: #0e4429; }
+    .cell-2 { fill: #006d32; }
+    .cell-3 { fill: #26a641; }
+    .cell-4 { fill: #39d353; }
+  </style>
+
+  <text x="30" y="30" class="title">🐍 Contribution Snake Game</text>
+
+  <g transform="translate(30, 45)">
+    <!-- Simulated Grid Matrix -->
+    <!-- Week 1 to 52 matrix rows -->
+    <g>
+      <!-- Grid Cells -->
+      <rect x="0" y="0" width="11" height="11" rx="2" class="cell-0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" class="cell-1"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" class="cell-2"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" class="cell-0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" class="cell-3"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" class="cell-4"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" class="cell-0"/>
+
+      <rect x="15" y="0" width="11" height="11" rx="2" class="cell-1"/>
+      <rect x="15" y="15" width="11" height="11" rx="2" class="cell-3"/>
+      <rect x="15" y="30" width="11" height="11" rx="2" class="cell-4"/>
+      <rect x="15" y="45" width="11" height="11" rx="2" class="cell-2"/>
+      <rect x="15" y="60" width="11" height="11" rx="2" class="cell-0"/>
+      <rect x="15" y="75" width="11" height="11" rx="2" class="cell-1"/>
+      <rect x="15" y="90" width="11" height="11" rx="2" class="cell-3"/>
+
+      <!-- Additional columns for full width -->
+      <rect x="30" y="0" width="11" height="11" rx="2" class="cell-4"/>
+      <rect x="30" y="15" width="11" height="11" rx="2" class="cell-2"/>
+      <rect x="30" y="30" width="11" height="11" rx="2" class="cell-0"/>
+      <rect x="30" y="45" width="11" height="11" rx="2" class="cell-3"/>
+      <rect x="30" y="60" width="11" height="11" rx="2" class="cell-4"/>
+      <rect x="30" y="75" width="11" height="11" rx="2" class="cell-1"/>
+      <rect x="30" y="90" width="11" height="11" rx="2" class="cell-0"/>
+
+      <!-- Repeated columns pattern -->
+      <g transform="translate(45, 0)">
+        <rect x="0" y="0" width="11" height="11" rx="2" class="cell-3"/><rect x="0" y="15" width="11" height="11" rx="2" class="cell-4"/><rect x="0" y="30" width="11" height="11" rx="2" class="cell-0"/><rect x="0" y="45" width="11" height="11" rx="2" class="cell-2"/><rect x="0" y="60" width="11" height="11" rx="2" class="cell-1"/><rect x="0" y="75" width="11" height="11" rx="2" class="cell-4"/><rect x="0" y="90" width="11" height="11" rx="2" class="cell-3"/>
+        <rect x="15" y="0" width="11" height="11" rx="2" class="cell-2"/><rect x="15" y="15" width="11" height="11" rx="2" class="cell-0"/><rect x="15" y="30" width="11" height="11" rx="2" class="cell-4"/><rect x="15" y="45" width="11" height="11" rx="2" class="cell-3"/><rect x="15" y="60" width="11" height="11" rx="2" class="cell-0"/><rect x="15" y="75" width="11" height="11" rx="2" class="cell-1"/><rect x="15" y="90" width="11" height="11" rx="2" class="cell-2"/>
+        <rect x="30" y="0" width="11" height="11" rx="2" class="cell-0"/><rect x="30" y="15" width="11" height="11" rx="2" class="cell-3"/><rect x="30" y="30" width="11" height="11" rx="2" class="cell-1"/><rect x="30" y="45" width="11" height="11" rx="2" class="cell-4"/><rect x="30" y="60" width="11" height="11" rx="2" class="cell-2"/><rect x="30" y="75" width="11" height="11" rx="2" class="cell-0"/><rect x="30" y="90" width="11" height="11" rx="2" class="cell-4"/>
+      </g>
+
+      <g transform="translate(90, 0)">
+        <rect x="0" y="0" width="11" height="11" rx="2" class="cell-4"/><rect x="0" y="15" width="11" height="11" rx="2" class="cell-1"/><rect x="0" y="30" width="11" height="11" rx="2" class="cell-3"/><rect x="0" y="45" width="11" height="11" rx="2" class="cell-0"/><rect x="0" y="60" width="11" height="11" rx="2" class="cell-4"/><rect x="0" y="75" width="11" height="11" rx="2" class="cell-2"/><rect x="0" y="90" width="11" height="11" rx="2" class="cell-1"/>
+        <rect x="15" y="0" width="11" height="11" rx="2" class="cell-3"/><rect x="15" y="15" width="11" height="11" rx="2" class="cell-4"/><rect x="15" y="30" width="11" height="11" rx="2" class="cell-2"/><rect x="15" y="45" width="11" height="11" rx="2" class="cell-1"/><rect x="15" y="60" width="11" height="11" rx="2" class="cell-0"/><rect x="15" y="75" width="11" height="11" rx="2" class="cell-4"/><rect x="15" y="90" width="11" height="11" rx="2" class="cell-3"/>
+      </g>
+    </g>
+
+    <!-- Animated Snake -->
+    <g class="snake">
+      <rect x="105" y="15" width="11" height="11" rx="3" class="snake-head"/>
+      <rect x="90" y="15" width="11" height="11" rx="3" class="snake-body"/>
+      <rect x="75" y="15" width="11" height="11" rx="3" class="snake-body"/>
+      <rect x="60" y="15" width="11" height="11" rx="3" class="snake-body"/>
+      <rect x="45" y="15" width="11" height="11" rx="3" class="snake-body"/>
+      <circle cx="112" cy="19" r="1.5" fill="#1a1b27"/>
+      <circle cx="112" cy="22" r="1.5" fill="#1a1b27"/>
+    </g>
+  </g>
+</svg>
