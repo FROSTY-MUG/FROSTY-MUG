@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/banner.png" width="100%" alt="Late Night Coding — Aryan Arora" />
+  <img src="banner.png" width="100%" alt="Late Night Coding — Aryan Arora" />
 </p>
 
 <br/>

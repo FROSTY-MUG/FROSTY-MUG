@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Generate Coffee Bean Snake
-        uses: platane/snk/svg-only@v3
+        uses: platane/snk/svg-only@v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=#D4A373&color_dots=#0d1117,#3d2214,#6b4423,#9c6b30,#D4A373
 
       - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
