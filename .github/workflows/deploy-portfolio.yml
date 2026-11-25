@@ -1,0 +1,57 @@
+name: Deploy Portfolio Website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'portfolio/**'
+      - 'data/**'
+      - '.github/workflows/deploy-portfolio.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-stage:
+    name: Build & Stage Static Portfolio
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Stage Web Artifacts
+        run: |
+          mkdir -p dist/data
+          cp -r portfolio/* dist/
+          cp data/github-data.json dist/data/github-data.json
+          # Ensure fallback files and static routing
+          if [ -f dist/index.html ]; then
+            echo "Staged static website successfully."
+          else
+            echo "Error: index.html not found!" && exit 1
+          fi
+
+      - name: Upload GitHub Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build-and-stage
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

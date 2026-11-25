@@ -1,0 +1,795 @@
+{
+  "metadata": {
+    "username": "FROSTY-MUG",
+    "name": "Aryan Arora",
+    "bio": "CS undergrad & AI/ML enthusiast. Building prototypes, winning hackathons, and turning complex ideas into scalable code.",
+    "location": "Uttarakhand",
+    "public_repos_count": 9,
+    "followers": 2,
+    "following": 1,
+    "avatar_url": "https://avatars.githubusercontent.com/u/77809425?v=4",
+    "profile_url": "https://github.com/FROSTY-MUG",
+    "harvested_at": "2026-11-25T15:18:20.705044Z",
+    "total_stars": 5,
+    "total_forks": 11
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "bytes": 1801893,
+      "percentage": 37.97
+    },
+    {
+      "language": "Python",
+      "bytes": 1047681,
+      "percentage": 22.08
+    },
+    {
+      "language": "JavaScript",
+      "bytes": 643018,
+      "percentage": 13.55
+    },
+    {
+      "language": "C++",
+      "bytes": 432349,
+      "percentage": 9.11
+    },
+    {
+      "language": "Rust",
+      "bytes": 325106,
+      "percentage": 6.85
+    },
+    {
+      "language": "HTML",
+      "bytes": 110508,
+      "percentage": 2.33
+    },
+    {
+      "language": "CSS",
+      "bytes": 106318,
+      "percentage": 2.24
+    },
+    {
+      "language": "C",
+      "bytes": 74455,
+      "percentage": 1.57
+    },
+    {
+      "language": "Swift",
+      "bytes": 64500,
+      "percentage": 1.36
+    },
+    {
+      "language": "PLpgSQL",
+      "bytes": 45723,
+      "percentage": 0.96
+    }
+  ],
+  "pinned_repositories": [
+    {
+      "name": "Ghost-Tag",
+      "description": "Zero-knowledge, offline-first encrypted vaults for NFC tags \u2014 AES-256-GCM, Argon2id, Reed-Solomon multi-tag recovery, and cross-platform Ghost Bridge.",
+      "html_url": "https://github.com/FROSTY-MUG/Ghost-Tag",
+      "homepage": "https://frosty-mug.github.io/Ghost-Tag/",
+      "is_fork": false,
+      "stars": 4,
+      "forks": 2,
+      "open_issues": 7,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 1032538,
+        "JavaScript": 221648,
+        "Swift": 61554,
+        "HTML": 53295,
+        "PLpgSQL": 45723,
+        "Python": 33024,
+        "C": 29945,
+        "C++": 28684,
+        "CSS": 17630,
+        "Kotlin": 12149,
+        "CMake": 1101,
+        "Ruby": 918
+      },
+      "topics": [
+        "aes-gcm",
+        "argon2",
+        "cryptography",
+        "desktop",
+        "encryption",
+        "erasure-coding",
+        "ghost-tag",
+        "ios",
+        "nfc",
+        "ntag",
+        "offline-first",
+        "privacy",
+        "react-native",
+        "react-native-android",
+        "reed-solomon",
+        "security",
+        "supabase",
+        "zero-knowledge"
+      ],
+      "created_at": "2026-11-13T06:45:18Z",
+      "updated_at": "2026-11-24T07:11:57Z",
+      "pushed_at": "2026-11-25T10:07:54Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "b3b51ce",
+          "message": "docs(wiki,supabase): add 35-page wiki set, free-tier policy, and gated Supabase deploy workflow (#44)",
+          "date": "2026-11-25T10:07:49Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "5f48932",
+          "message": "ci(pages): split build and deploy jobs to prevent artifact indexing race (#43)",
+          "date": "2026-11-25T09:31:42Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "a9536c9",
+          "message": "chore(release-prep): align brutalist branding, fix secret drift, and expand wiki/README (#42)",
+          "date": "2026-11-25T08:59:22Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "Genome_Firewall",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/Genome_Firewall",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 1,
+      "forks": 4,
+      "open_issues": 0,
+      "primary_language": "C++",
+      "languages": {
+        "C++": 294638,
+        "JavaScript": 95603,
+        "CSS": 56043,
+        "Python": 33223,
+        "HTML": 5873,
+        "Makefile": 2488,
+        "Batchfile": 718
+      },
+      "topics": [],
+      "created_at": "2026-08-30T14:13:11Z",
+      "updated_at": "2026-10-22T08:12:04Z",
+      "pushed_at": "2026-11-22T19:00:00Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "04cd3dd",
+          "message": "ci(dependabot): add automated weekly Dependabot security audits and lockfile",
+          "date": "2026-11-22T18:59:55Z",
+          "author": "rakshit nath"
+        },
+        {
+          "sha": "e01bdb3",
+          "message": "Merge pull request #6 from Skeletor-Pirate/feat/web-console",
+          "date": "2026-11-22T18:56:35Z",
+          "author": "rakshit nath"
+        },
+        {
+          "sha": "9885c5c",
+          "message": "Merge pull request #4 from aanya10112007-blip/feat/interactive-terminal-testing-system",
+          "date": "2026-11-22T18:47:52Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "jocky-",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/jocky-",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 1,
+      "open_issues": 10,
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 325106,
+        "C++": 48417,
+        "Go": 20758,
+        "Shell": 15777,
+        "PowerShell": 14057,
+        "Python": 13138,
+        "TypeScript": 5144,
+        "Makefile": 4665,
+        "C": 4355,
+        "Just": 3949,
+        "CMake": 3580,
+        "Swift": 2946,
+        "Batchfile": 987,
+        "HTML": 307,
+        "CSS": 182
+      },
+      "topics": [],
+      "created_at": "2026-09-26T20:11:51Z",
+      "updated_at": "2026-09-27T22:37:58Z",
+      "pushed_at": "2026-10-17T13:42:47Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "66d35b9",
+          "message": "docs(handoff): record commit SHA in STATE.md",
+          "date": "2026-09-27T22:37:43Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "3834fa8",
+          "message": "docs(interfaces): freeze consent token, findings schema, manager API",
+          "date": "2026-09-27T22:36:46Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "0e3e3c5",
+          "message": "STEP 3A: Windows C++ agent -- consent, in-process .jkm loader, collectors, BYOVD + injection detectors",
+          "date": "2026-09-27T22:35:27Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "CareSentry",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/CareSentry",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 1,
+      "open_issues": 0,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 745434,
+        "JavaScript": 87092,
+        "HTML": 50593,
+        "TypeScript": 26788,
+        "CSS": 23432,
+        "Shell": 380
+      },
+      "topics": [],
+      "created_at": "2026-10-10T06:56:55Z",
+      "updated_at": "2026-10-10T10:04:52Z",
+      "pushed_at": "2026-10-10T10:04:48Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "c6aeee0",
+          "message": "Merge pull request #7 from Skeletor-Pirate/integration/full-stack-system-and-docs",
+          "date": "2026-10-10T10:04:47Z",
+          "author": "Skeletor-Pirate"
+        },
+        {
+          "sha": "d153b15",
+          "message": "Merge pull request #8 from FROSTY-MUG/track-a2/core-1.1",
+          "date": "2026-10-10T09:59:57Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "b68ef43",
+          "message": "Merge pull request #6 from Skeletor-Pirate/lane/studio",
+          "date": "2026-10-10T09:57:42Z",
+          "author": "Skeletor-Pirate"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "vc_brain",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/vc_brain",
+      "homepage": "https://vc-brain-seven.vercel.app",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 2,
+      "open_issues": 0,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 299417,
+        "Python": 194759,
+        "CSS": 6231,
+        "JavaScript": 3986,
+        "Shell": 728,
+        "Procfile": 50
+      },
+      "topics": [],
+      "created_at": "2026-07-18T19:07:41Z",
+      "updated_at": "2026-07-19T12:42:57Z",
+      "pushed_at": "2026-07-19T12:42:53Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "df33743",
+          "message": "docs: add simple implementation tutorial",
+          "date": "2026-07-19T12:42:47Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "5075f23",
+          "message": "docs: tutorials included",
+          "date": "2026-07-19T12:40:46Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "b87f73f",
+          "message": "docs: organize project files and generate comprehensive documentation architecture",
+          "date": "2026-07-19T12:39:46Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "FPA",
+      "description": "IITR",
+      "html_url": "https://github.com/FROSTY-MUG/FPA",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 1,
+      "open_issues": 0,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 408155,
+        "CSS": 2048,
+        "JavaScript": 168
+      },
+      "topics": [],
+      "created_at": "2026-03-29T19:17:55Z",
+      "updated_at": "2026-06-21T18:07:57Z",
+      "pushed_at": "2026-04-08T11:49:52Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "a221bed",
+          "message": "feat: Implement AI vectorization and UI enhancements",
+          "date": "2026-04-08T11:49:52Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "6f2801a",
+          "message": "feat: Refactor dashboard and environment setup",
+          "date": "2026-04-06T22:40:59Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "cfd0c3e",
+          "message": "feat: Configure API keys and update project settings",
+          "date": "2026-04-06T21:30:45Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    }
+  ],
+  "all_repositories": [
+    {
+      "name": "Ghost-Tag",
+      "description": "Zero-knowledge, offline-first encrypted vaults for NFC tags \u2014 AES-256-GCM, Argon2id, Reed-Solomon multi-tag recovery, and cross-platform Ghost Bridge.",
+      "html_url": "https://github.com/FROSTY-MUG/Ghost-Tag",
+      "homepage": "https://frosty-mug.github.io/Ghost-Tag/",
+      "is_fork": false,
+      "stars": 4,
+      "forks": 2,
+      "open_issues": 7,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 1032538,
+        "JavaScript": 221648,
+        "Swift": 61554,
+        "HTML": 53295,
+        "PLpgSQL": 45723,
+        "Python": 33024,
+        "C": 29945,
+        "C++": 28684,
+        "CSS": 17630,
+        "Kotlin": 12149,
+        "CMake": 1101,
+        "Ruby": 918
+      },
+      "topics": [
+        "aes-gcm",
+        "argon2",
+        "cryptography",
+        "desktop",
+        "encryption",
+        "erasure-coding",
+        "ghost-tag",
+        "ios",
+        "nfc",
+        "ntag",
+        "offline-first",
+        "privacy",
+        "react-native",
+        "react-native-android",
+        "reed-solomon",
+        "security",
+        "supabase",
+        "zero-knowledge"
+      ],
+      "created_at": "2026-11-13T06:45:18Z",
+      "updated_at": "2026-11-24T07:11:57Z",
+      "pushed_at": "2026-11-25T10:07:54Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "b3b51ce",
+          "message": "docs(wiki,supabase): add 35-page wiki set, free-tier policy, and gated Supabase deploy workflow (#44)",
+          "date": "2026-11-25T10:07:49Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "5f48932",
+          "message": "ci(pages): split build and deploy jobs to prevent artifact indexing race (#43)",
+          "date": "2026-11-25T09:31:42Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "a9536c9",
+          "message": "chore(release-prep): align brutalist branding, fix secret drift, and expand wiki/README (#42)",
+          "date": "2026-11-25T08:59:22Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "FROSTY-MUG",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/FROSTY-MUG",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "primary_language": null,
+      "languages": {},
+      "topics": [],
+      "created_at": "2026-07-27T17:28:10Z",
+      "updated_at": "2026-07-28T04:40:18Z",
+      "pushed_at": "2026-11-25T06:04:01Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "d789093",
+          "message": "Remove unused 3D contribution workflow after removing its reference from README",
+          "date": "2026-07-28T04:39:46Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "b0782bb",
+          "message": "Fix banner link, update workflow actions to latest versions, restore 3D contribution workflow",
+          "date": "2026-07-28T04:38:29Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "5c7d5d8",
+          "message": "feat: clean spacious header, remove 3d matrix & workflow",
+          "date": "2026-07-27T20:14:14Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": false
+    },
+    {
+      "name": "Genome_Firewall",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/Genome_Firewall",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 1,
+      "forks": 4,
+      "open_issues": 0,
+      "primary_language": "C++",
+      "languages": {
+        "C++": 294638,
+        "JavaScript": 95603,
+        "CSS": 56043,
+        "Python": 33223,
+        "HTML": 5873,
+        "Makefile": 2488,
+        "Batchfile": 718
+      },
+      "topics": [],
+      "created_at": "2026-08-30T14:13:11Z",
+      "updated_at": "2026-10-22T08:12:04Z",
+      "pushed_at": "2026-11-22T19:00:00Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "04cd3dd",
+          "message": "ci(dependabot): add automated weekly Dependabot security audits and lockfile",
+          "date": "2026-11-22T18:59:55Z",
+          "author": "rakshit nath"
+        },
+        {
+          "sha": "e01bdb3",
+          "message": "Merge pull request #6 from Skeletor-Pirate/feat/web-console",
+          "date": "2026-11-22T18:56:35Z",
+          "author": "rakshit nath"
+        },
+        {
+          "sha": "9885c5c",
+          "message": "Merge pull request #4 from aanya10112007-blip/feat/interactive-terminal-testing-system",
+          "date": "2026-11-22T18:47:52Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "jocky-",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/jocky-",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 1,
+      "open_issues": 10,
+      "primary_language": "Rust",
+      "languages": {
+        "Rust": 325106,
+        "C++": 48417,
+        "Go": 20758,
+        "Shell": 15777,
+        "PowerShell": 14057,
+        "Python": 13138,
+        "TypeScript": 5144,
+        "Makefile": 4665,
+        "C": 4355,
+        "Just": 3949,
+        "CMake": 3580,
+        "Swift": 2946,
+        "Batchfile": 987,
+        "HTML": 307,
+        "CSS": 182
+      },
+      "topics": [],
+      "created_at": "2026-09-26T20:11:51Z",
+      "updated_at": "2026-09-27T22:37:58Z",
+      "pushed_at": "2026-10-17T13:42:47Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "66d35b9",
+          "message": "docs(handoff): record commit SHA in STATE.md",
+          "date": "2026-09-27T22:37:43Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "3834fa8",
+          "message": "docs(interfaces): freeze consent token, findings schema, manager API",
+          "date": "2026-09-27T22:36:46Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "0e3e3c5",
+          "message": "STEP 3A: Windows C++ agent -- consent, in-process .jkm loader, collectors, BYOVD + injection detectors",
+          "date": "2026-09-27T22:35:27Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "DSCPP-PBL",
+      "description": "A 2D Interactive RPG integrating concepts of Data Structures , Algorithms and Object Oriented Programming ",
+      "html_url": "https://github.com/FROSTY-MUG/DSCPP-PBL",
+      "homepage": "",
+      "is_fork": true,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 234039,
+        "C++": 60610,
+        "C": 40155,
+        "Python": 28103,
+        "TeX": 11941,
+        "HTML": 440
+      },
+      "topics": [],
+      "created_at": "2026-10-16T08:45:37Z",
+      "updated_at": "2026-11-25T14:00:14Z",
+      "pushed_at": "2026-10-16T11:09:49Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "9b56775",
+          "message": "docs: add Code of Conduct and Security policy",
+          "date": "2026-10-16T11:08:40Z",
+          "author": "Anushka Diwaker"
+        },
+        {
+          "sha": "1cf11b3",
+          "message": "docs: add comprehensive project README and architecture overview",
+          "date": "2026-10-16T11:08:24Z",
+          "author": "Anushka Diwaker"
+        },
+        {
+          "sha": "9f84f61",
+          "message": "C stack and circular queue",
+          "date": "2026-10-16T11:07:52Z",
+          "author": "Anushka Diwaker"
+        }
+      ],
+      "is_pinned": false
+    },
+    {
+      "name": "CareSentry",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/CareSentry",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 1,
+      "open_issues": 0,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 745434,
+        "JavaScript": 87092,
+        "HTML": 50593,
+        "TypeScript": 26788,
+        "CSS": 23432,
+        "Shell": 380
+      },
+      "topics": [],
+      "created_at": "2026-10-10T06:56:55Z",
+      "updated_at": "2026-10-10T10:04:52Z",
+      "pushed_at": "2026-10-10T10:04:48Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "c6aeee0",
+          "message": "Merge pull request #7 from Skeletor-Pirate/integration/full-stack-system-and-docs",
+          "date": "2026-10-10T10:04:47Z",
+          "author": "Skeletor-Pirate"
+        },
+        {
+          "sha": "d153b15",
+          "message": "Merge pull request #8 from FROSTY-MUG/track-a2/core-1.1",
+          "date": "2026-10-10T09:59:57Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "b68ef43",
+          "message": "Merge pull request #6 from Skeletor-Pirate/lane/studio",
+          "date": "2026-10-10T09:57:42Z",
+          "author": "Skeletor-Pirate"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "vc_brain",
+      "description": "",
+      "html_url": "https://github.com/FROSTY-MUG/vc_brain",
+      "homepage": "https://vc-brain-seven.vercel.app",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 2,
+      "open_issues": 0,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 299417,
+        "Python": 194759,
+        "CSS": 6231,
+        "JavaScript": 3986,
+        "Shell": 728,
+        "Procfile": 50
+      },
+      "topics": [],
+      "created_at": "2026-07-18T19:07:41Z",
+      "updated_at": "2026-07-19T12:42:57Z",
+      "pushed_at": "2026-07-19T12:42:53Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "df33743",
+          "message": "docs: add simple implementation tutorial",
+          "date": "2026-07-19T12:42:47Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "5075f23",
+          "message": "docs: tutorials included",
+          "date": "2026-07-19T12:40:46Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "b87f73f",
+          "message": "docs: organize project files and generate comprehensive documentation architecture",
+          "date": "2026-07-19T12:39:46Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "FPA",
+      "description": "IITR",
+      "html_url": "https://github.com/FROSTY-MUG/FPA",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 1,
+      "open_issues": 0,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 408155,
+        "CSS": 2048,
+        "JavaScript": 168
+      },
+      "topics": [],
+      "created_at": "2026-03-29T19:17:55Z",
+      "updated_at": "2026-06-21T18:07:57Z",
+      "pushed_at": "2026-04-08T11:49:52Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "a221bed",
+          "message": "feat: Implement AI vectorization and UI enhancements",
+          "date": "2026-04-08T11:49:52Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "6f2801a",
+          "message": "feat: Refactor dashboard and environment setup",
+          "date": "2026-04-06T22:40:59Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "cfd0c3e",
+          "message": "feat: Configure API keys and update project settings",
+          "date": "2026-04-06T21:30:45Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": true
+    },
+    {
+      "name": "Aria-PA",
+      "description": "Personal Assistant",
+      "html_url": "https://github.com/FROSTY-MUG/Aria-PA",
+      "homepage": "",
+      "is_fork": false,
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 29851,
+        "CSS": 752,
+        "JavaScript": 482
+      },
+      "topics": [],
+      "created_at": "2026-03-25T20:14:41Z",
+      "updated_at": "2026-03-25T20:14:57Z",
+      "pushed_at": "2026-03-25T20:14:53Z",
+      "default_branch": "main",
+      "recent_commits": [
+        {
+          "sha": "26bf145",
+          "message": "feat: Initialize project with Next.js and Tailwind CSS",
+          "date": "2026-03-25T20:14:53Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "050ee95",
+          "message": "Initial commit",
+          "date": "2026-03-25T20:14:43Z",
+          "author": "Aryan Arora"
+        }
+      ],
+      "is_pinned": false
+    }
+  ]
+}

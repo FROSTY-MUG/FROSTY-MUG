@@ -1,311 +1,188 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="banner.png" width="100%" alt="Late Night Coding — Aryan Arora" />
-</p>
+# Aryan Arora
 
-<br/>
-
-<h1 align="center">Hey there, I'm Aryan Arora</h1>
-
-<h3 align="center">AI Product Engineer &bull; Full-Stack Developer</h3>
-
-<br/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=86400000&color=D4A373&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Fueled+by+coffee%2C+driven+by+curiosity." alt="Typing SVG" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/FROSTY-MUG?tab=followers">
-    <img src="https://img.shields.io/github/followers/FROSTY-MUG?label=Followers&style=for-the-badge&color=D4A373&labelColor=14141e&logo=github" alt="followers" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/FROSTY-MUG?label=Stars&style=for-the-badge&color=D4A373&labelColor=14141e&logo=github" alt="stars" />
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=FROSTY-MUG&label=Profile+Views&color=D4A373&style=for-the-badge" alt="views" />
-</p>
-
-<br/>
+**Forward Deployed Engineer | Systems, Applied AI & Security Engineering**  
+Uttarakhand, India · [LinkedIn](https://linkedin.com/in/aryanaroracs) · [GitHub](https://github.com/FROSTY-MUG) · [Email](mailto:aryanarora26110@gmail.com)
 
 ---
 
-<br/>
-
-## About Me
-
-Hi, I'm **Aryan Arora** — a builder at heart. I thrive on turning ideas into tangible solutions that serve society, whether it's an AI-powered platform that helps students find their perfect career path or a multi-agent web OS that lets people interact with technology through voice, gesture, and consensus-driven AI.
-
-Currently a second-year **B.Tech Computer Science (AI & Machine Learning Honours)** student at **Graphic Era University, Dehradun**, I spend my late-night hours coding, experimenting, and learning — driven by black coffee, lo-fi beats, and an insatiable curiosity about how systems work. My expertise spans:
-
-- Architecting multi-agent LLM orchestration pipelines with consensus mechanisms
-- Building high-performance RAG pipelines using vector databases (Pinecone)
-- Real-time computer vision with MediaPipe (~32 FPS)
-- Prompt engineering and multi-model inference (GPT-4, Gemini, Groq)
-- Full-stack development (Next.js, React, TypeScript, Node.js, TailwindCSS, Firebase, Vercel)
-- Cybersecurity fundamentals, networking, cloud infrastructure, and system design
-
-A four-time hackathon champion (IIT Roorkee FinCortex, Logixcape IEEE, Kindle Junior 4.0, DigiTech Titans), I excel under pressure and tight deadlines, delivering production-ready solutions that win awards and solve real problems.
-
-Beyond AI, I see myself as a systems thinker: I believe a great AI engineer must also be a great systems engineer, which is why I continuously dive into networking protocols, cloud architecture, and security best practices.
-
-When I'm not building, you'll find me exploring new frameworks, contributing to open-source, or sharing knowledge through tech talks and blog posts. My mission is simple: create technology that empowers people, learns from every iteration, and pushes the boundaries of what's possible.
-
-<br/>
+I build end-to-end software systems that bridge ambiguous real-world requirements with high-performance, deterministic engineering. My work spans offline-first cryptographic hardware vaults, zero-copy C++ genomic defense engines, deterministic LLM evaluation harnesses, and full-stack multi-agent workflow systems. I focus on shipping verifiable, well-tested, and production-disciplined solutions across security, systems, and applied AI.
 
 ---
 
-<br/>
+## Current Focus
 
-## Quick Reference
-
-| | |
-|:---|:---|
-| **Name** | Aryan Arora |
-| **Current Role** | B.Tech CSE (AI & ML Honours) — Graphic Era University, Dehradun |
-| **Core Identity** | Builder at heart — passionate about creating AI-powered solutions that benefit society |
-| **Primary Focus** | Multi-agent LLM orchestration, RAG pipelines, real-time computer vision, full-stack AI products |
-| **Hackathon Record** | 4x 1st Place (IIT Roorkee FinCortex, Logixcape IEEE, Kindle Junior 4.0, DigiTech Titans) |
-| **Learning Drive** | Constantly exploring new frameworks, contributing to OSS, mentoring beginners for hackathons |
-| **Fun Fact** | Most productive hours: midnight–4 AM, fueled by black coffee & lo-fi beats |
-| **LinkedIn** | [aryanaroracs](https://linkedin.com/in/aryanaroracs) |
-| **Email** | [aryanarora26110@gmail.com](mailto:aryanarora26110@gmail.com) |
-
-<br/>
+- **Cryptographic Storage Hardening:** Advancing `Ghost-Tag` from `v2.0.6` stable release through `v2.1.0` staging, implementing Cauchy Reed-Solomon $(N, K)$ erasure coding over $\mathrm{GF}(2^8)$ and desktop PC/SC + PN532 hardware integration.
+- **Applied AI Safety & Guardrails:** Maintaining `CareSentry-AI`, refining attention-probing z-score thresholds, blockwise $O(S \cdot K)$ memory bounding, and reverse-omission detection across open-weight clinical models.
+- **High-Throughput Systems:** Optimizing `Genome_Firewall` v2.0 C++14 memory-mapped FASTA ingestion pipelines and mutation-tolerant algorithmic indexing.
+- **Domain-Specific Compilers:** Developing `JOCKY`, a consent-bound DFIR compiler and runtime platform in Rust and C++ for authorized incident response (SIH26148).
 
 ---
 
-<br/>
+## Flagship Engineering Work
 
-## Quotes I Live By
+### Ghost-Tag
 
-> *"Simplicity is the ultimate sophistication — and the ultimate debugging strategy."*
-> — Aryan Arora
+**Offline-first encrypted NFC data vault across Android, web, and desktop hardware.**
 
-> *"The best way to win is to take everything seriously and just show up, no matter the `exceptions` — you can always `catch` them later."*
-> — Aryan Arora
+[Repository](https://github.com/FROSTY-MUG/Ghost-Tag) · [Live Web Client](https://frosty-mug.github.io/Ghost-Tag/) · [Security Policy](https://github.com/FROSTY-MUG/Ghost-Tag/blob/main/SECURITY.md) · [Project Status](https://github.com/FROSTY-MUG/Ghost-Tag/blob/main/PROJECT-STATUS.md)
 
-> *"Ship it at 3 AM or don't ship it at all. The compiler doesn't judge your sleep schedule."*
-> — Aryan Arora
+**Problem:**  
+Physical NFC tags are convenient but insecure by default. Anyone with an NFC-enabled smartphone can read unprotected user data, and lost or cloned tags expose sensitive credentials and recovery records.
 
-<br/>
+**What I built:**  
+Ghost-Tag encrypts user data entirely client-side and writes authenticated AES-256-GCM ciphertext envelopes to physical NTAG213, NTAG215, and NTAG216 tags. It supports single-tag vaults, multi-tag bulk file vaults with erasure coding, BIP-39 recovery phrases, cross-platform Android and web interfaces, a desktop PC/SC and PN532 hardware bridge, and opt-in zero-knowledge cloud sync.
 
----
+**Engineering highlights:**
+- **Two-Tier Key Hierarchy:** Derives an ephemeral KEK from a user passphrase via Argon2id; generates unique 256-bit CSPRNG DEKs per vault stored exclusively in AES-256-GCM wrapped form. KEKs and plaintexts are zeroized and never persisted.
+- **Tamper-Evident Envelopes:** Additional Authenticated Data (AAD) binds envelope headers to prevent cross-tag swapping, purpose alteration, and length-extension attacks. Writes require independent byte-for-byte read-back verification.
+- **Fault-Tolerant Multi-Tag Sharding:** Implemented Cauchy Reed-Solomon $(N, K)$ erasure coding over $\mathrm{GF}(2^8)$ to distribute file fragments across tag clusters, allowing full recovery from damaged tags.
+- **Verification & CI/CD:** Maintained 347 Jest unit tests across 26 suites, 22 PN532 serial communication tests, CodeQL security scanning, TruffleHog secret leak prevention, and automated GitHub Pages releases.
+- **Status & Boundaries:** Latest published release is `v2.0.6`; `v2.1.0` is active unreleased staging software. Protects ciphertext confidentiality against RF interception and tag tampering; does not claim forensic silicon erasure or root-compromised host defense.
 
-<br/>
-
-## What I Do
-
-| Domain | Description | Examples / Projects |
-|:---|:---|:---|
-| **AI Engineering** | Design & deploy AI systems that solve real-world problems | Synapse OS, CareerPath, Voices of Ink |
-| **Multi-Agent Orchestration** | Build pipelines where multiple LLMs collaborate, debate, and reach consensus | Synapse OS — Gemini, GPT-4, Groq with voting mechanism |
-| **Retrieval-Augmented Generation** | Combine vector search with LLMs for context-aware answers | Pinecone-based RAG in Synapse OS & CareerPath |
-| **Real-Time Computer Vision** | Enable gesture & voice control via MediaPipe (~32 FPS) | Gesture-controlled OS interface in Synapse OS |
-| **Full-Stack Development** | Craft scalable web apps from frontend to deployment | Next.js/React apps on Vercel with Firebase auth & CI/CD |
-| **Systems & Security** | Apply networking, cloud, and security fundamentals to AI workloads | OAuth 2.0 auth, Firebase telemetry, Dockerized deployments |
-| **Open Source & Community** | Contribute, share knowledge, and mentor peers | Public repos, tech talks, hackathon mentoring |
-
-<br/>
+**Stack:**  
+`TypeScript` · `React Native` · `Kotlin` · `C++17/NDK` · `Vite` · `WebCrypto` · `Supabase` · `PostgreSQL/RLS` · `NFC / PC/SC` · `Jest` · `CodeQL`
 
 ---
 
-<br/>
+### Genome Firewall (v2.0)
 
-## Hackathon Achievements
+**High-throughput C++ antimicrobial-resistance screening and decision-support engine.**
 
-| Competition | Project / Track | Rank | Details |
-|:---|:---|:---:|:---|
-| **IIT Roorkee FinCortex** | Synapse OS | **1st** | Multi-agent Web OS with voice, gesture & LLM consensus in 72 hrs (200+ teams) |
-| **Logixcape IEEE** | Logic & Escape Room | **1st** | Ranked 1st across 3 intensive technical rounds (300+ participants) |
-| **Kindle Junior 4.0 (IEEE - GEU)** | CareerPath | **1st** | AI career guidance platform (115+ first-year students) |
-| **DigiTech Titans** | Tech Competition | **1st** | Completed 8 technical challenges in 84 minutes (100+ participants) |
+[Repository](https://github.com/FROSTY-MUG/Genome_Firewall) · [Architecture Spec](https://github.com/FROSTY-MUG/Genome_Firewall/blob/main/docs/ARCHITECTURE.md) · [Web Console](https://github.com/FROSTY-MUG/Genome_Firewall/tree/main/web) · [API Server](https://github.com/FROSTY-MUG/Genome_Firewall/blob/main/api/server.js)
 
-<br/>
+**Problem:**  
+Identifying antimicrobial resistance (AMR) superbugs from raw bacterial genomes requires scanning multi-gigabyte files against massive marker catalogs with mutation tolerance under strict compute budgets.
 
----
+**What I built:**  
+As Project Lead and Core Architect, I engineered a pure C/C++14 systems pipeline that ingests raw FASTA genomes without external runtime dependencies, cross-references k-mers against indexed AMR catalogs, and generates tiered per-drug-class resistance predictions using an embedded logistic regression engine.
 
-<br/>
+**Engineering highlights:**
+- **Zero-Copy Memory-Mapped Parsing:** Built `FastaMmapParser` leveraging OS virtual memory pages (`CreateFileMapping` / `mmap`) with 64 KB chunking and overlap buffers to prevent missed markers across block boundaries.
+- **Algorithmic Data Structures:** Designed a custom 4-ary genomic prefix trie (40-byte node footprint) paired with a custom 8 KB arena block allocator, indexing 4,500,462 trie nodes from the 455-marker CARD catalog.
+- **Multi-Tier Fast Filtering:** Integrated a 1 MB Bloom filter with 3 hash functions for $O(1)$ fast rejection of negative sequences, alongside Hamming distance $\le 1$ mutation-tolerant searching.
+- **Lock-Free Concurrency:** Implemented multithreaded sliding-window 21-mer scoring using native OS threads, immutable trie reads, and atomic counters.
+- **Benchmarked Outcomes:** On an AMD Ryzen 5 hexa-core system (MinGW GCC 6.3 `-O3`), v2.0 reduced trie arena memory by 78.3% (404.8 MB to 88.0 MB), reduced inference scan time by 12x (263.27 ms to 21.99 ms), and cut total wall-clock time by 3.4x over the project's v1.0 baseline.
+- **Disclaimer:** Defensive decision support only; outputs must be confirmed by standard laboratory antimicrobial susceptibility testing.
 
-## Featured Projects
-
-<details>
-<summary><b>Synapse OS — Multi-Agent AI Web Operating System</b> &nbsp; | &nbsp; <i>1st Place @ IIT Roorkee FinCortex</i></summary>
-<br/>
-
-> A full-fledged web-based operating system powered by multiple AI agents working in parallel.
-
-| Component | Details |
-|:---|:---|
-| **Multi-Agent Architecture** | Integrates Gemini, GPT-4, and Groq with parallel execution and consensus mechanisms |
-| **High-Performance RAG** | Pinecone vector database pipeline for contextual document retrieval |
-| **Real-Time Gesture Control** | MediaPipe hand tracking at ~32 FPS for touchless interaction |
-| **Enterprise Auth & Telemetry** | OAuth 2.0 authentication with Firebase real-time telemetry dashboard |
-| **Stack** | `Next.js 15` · `React 19` · `TypeScript` · `MediaPipe` · `OpenAI` · `Google GenAI` · `Groq` · `Pinecone` · `Firebase` · `Vercel` |
-
-</details>
-
-<details>
-<summary><b>CareerPath — AI Career Guidance Platform</b> &nbsp; | &nbsp; <i>1st Place @ Kindle Junior 4.0</i></summary>
-<br/>
-
-> Personalized career recommendations through multi-stage LLM assessment workflows.
-
-| Component | Details |
-|:---|:---|
-| **Intelligent Assessment** | Multi-round AI-driven evaluation that adapts questions based on user responses |
-| **Smart Recommendations** | Personalized career pathways generated through LLM analysis of skills, interests, and aptitude |
-| **Production-Ready** | Secure authentication, CI/CD via GitHub Actions, deployed on Vercel |
-| **Stack** | `Next.js` · `React` · `Gemini / GPT APIs` · `Vercel` · `GitHub Actions` |
-
-</details>
-
-<details>
-<summary><b>Voices of Ink — AI Writing Platform</b> &nbsp; | &nbsp; <i>AI Product Design & Prompt Engineering</i></summary>
-<br/>
-
-> Multi-persona AI content generation with 9 distinct stylistic writing personas.
-
-| Component | Details |
-|:---|:---|
-| **Persona Engine** | Each persona has unique tone, vocabulary, and writing patterns — from academic to creative fiction |
-| **Low-Detection Pipeline** | Custom guardrails and content refinement for natural, human-like output |
-| **Responsive Design** | Fully responsive UI with TailwindCSS, optimized for all devices |
-| **Stack** | `Next.js` · `TypeScript` · `TailwindCSS` · `AI APIs` · `Vercel` |
-
-</details>
-
-<br/>
+**Stack:**  
+`C/C++14` · `POSIX mmap / Windows File Mapping` · `Native Threads` · `Atomics` · `Custom Allocators` · `Logistic Regression` · `Node.js` · `HTML5/Vanilla JS`
 
 ---
 
-<br/>
+### CareSentry-AI
 
-## Languages & Tools
+**Deterministic safety harness for open-weight medical LLMs: attention probing, clinical invariant checks, and inference-time guardrails.**
 
-**Languages**
+[Repository](https://github.com/FROSTY-MUG/CareSentry) · [Authors & Roles](https://github.com/FROSTY-MUG/CareSentry/blob/main/AUTHORS.md) · [Benchmark Evidence](https://github.com/FROSTY-MUG/CareSentry/blob/main/benchmark_results.json) · [Agent Skills](https://github.com/FROSTY-MUG/CareSentry/tree/main/.agents/skills)
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-</p>
+**Problem:**  
+Long clinical contexts dilute an LLM's attention to critical constraints buried in patient records, increasing the risk of missed drug allergies, adverse cross-reactivity, and unsupported treatment recommendations.
 
-**AI & Machine Learning**
+**What I co-built:**  
+Co-developed a tri-layer safety harness that directly probes transformer multi-head attention weights, verifies clinical safety invariants against standardized ontologies, and enforces inference-time guardrails against prompt injection and hallucinated claims.
 
-<p>
-  <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=speedtest&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-</p>
+**Engineering highlights:**
+- **Attention Probing & Statistical Scoring:** Designed PyTorch forward hooks to extract attention weights across final decision layers. Built a blockwise memory-bounded estimator operating in $O(S \cdot K)$ memory rather than $O(S^2)$ for contexts up to 24,000 tokens, coupled with depth-stratified z-score controls and bootstrap 95% confidence intervals.
+- **Clinical Invariant Engine:** Implemented automated rules for cross-reactivity, renal dosing (Cockcroft-Gault CrCl & CKD-EPI 2021 eGFR), Beers Criteria, drug-drug interactions, and reverse-omission detection across 180+ drug aliases normalized via RxNorm Lite and WHO-ATC.
+- **Inference Defense & Auditability:** Built prompt-injection scanners, invariant-guided constrained decoding via prefix tries, sentence-level evidence grounding, and a SHA-256 chained tamper-evident audit log with 2.47 ms CPU latency.
+- **Developer Interfaces:** Delivered a Gradio clinician UI, OpenAI-compatible safety proxy gateway, Model Context Protocol (MCP) server, and three Agent Skills specifications.
+- **Quality Assurance:** Backed by 130 tests across all tracks (100% passing). Tested strictly against synthetic clinical datasets; designed for local, air-gapped execution requiring human clinical oversight.
 
-**Frameworks & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<br/>
+**Stack:**  
+`Python 3.10+` · `PyTorch` · `Hugging Face Transformers` · `Gradio` · `MCP` · `RxNorm Lite / WHO-ATC` · `pytest` · `SHA-256`
 
 ---
 
-<br/>
+## Selected Projects
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FROSTY-MUG&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=D4A373&icon_color=D4A373&title_color=D4A373&text_color=c9d1d9&ring_color=D4A373&hide_border=false" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROSTY-MUG&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=D4A373&title_color=D4A373&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=FROSTY-MUG&theme=tokyonight&background=0d1117&border=D4A373&stroke=D4A373&ring=D4A373&fire=FF6B35&currStreakLabel=D4A373&sideLabels=D4A373&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-</p>
-
-<br/>
+| Project | Problem & Solution | Technical Stack | Verifiable Evidence |
+|---|---|---|---|
+| **[JOCKY](https://github.com/FROSTY-MUG/jocky-)** | Consent-bound DFIR platform and domain-specific compiler for authorized incident response on degraded hosts (SIH26148). Built lexer, AST, recursive-descent parser, and Windows C++ agent loader. | `Rust`, `C++17`, `LLVM`, `Logos`, `Shell` | [CITATION.cff](https://github.com/FROSTY-MUG/jocky-/blob/main/CITATION.cff) · [Compiler Source](https://github.com/FROSTY-MUG/jocky-/tree/main/compiler) |
+| **[VC Brain](https://github.com/FROSTY-MUG/vc_brain)** | Full-stack venture deal-flow platform using LangGraph stateful multi-agent pipelines to score pitch decks, ingest PDFs, and draft investment memos. | `Next.js 16`, `FastAPI`, `LangGraph`, `Supabase`, `PyMuPDF` | [Package Manifest](https://github.com/FROSTY-MUG/vc_brain/blob/main/package.json) · [API Endpoints](https://github.com/FROSTY-MUG/vc_brain/blob/main/backend/main.py) |
+| **[FP&A Studio](https://github.com/FROSTY-MUG/FPA)** | Real-time financial analysis dashboard combining Groq ultra-low-latency LPU inference, Pinecone vector embeddings, and multi-model AI forecasting. | `TypeScript`, `Next.js`, `Pinecone`, `Groq`, `Google GenAI` | [Project Metadata](https://github.com/FROSTY-MUG/FPA/blob/main/metadata.json) · [Dependencies](https://github.com/FROSTY-MUG/FPA/blob/main/package.json) |
+| **[DSCPP-PBL](https://github.com/FROSTY-MUG/DSCPP-PBL)** | Academic 2D RPG engine integrating classical data structures and algorithms (SegFault Studios coursework project fork). | `JavaScript`, `Phaser 4`, `C++17`, `Vite` | [Upstream Coursework Repo](https://github.com/FROSTY-MUG/DSCPP-PBL) |
 
 ---
 
-<br/>
+## Technical Capabilities
 
-## Coffee Bean Contribution Snake
+Technologies derived exclusively from verified repository usage across production and active staging code:
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-contribution-grid-snake.svg" />
-    <img alt="Coffee Bean Contribution Snake" src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_color=D4A373" alt="Dev Quote" />
-</p>
-
-<br/>
+| Domain | Verified Technologies & Tools |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, C++ (C++14/C++17), Rust, Kotlin, Swift, SQL / PLpgSQL |
+| **Systems & Architecture** | Memory-mapped I/O (`mmap` / Win32), Native Multithreading, Lock-free Atomics, Arena Memory Allocators, Prefix Tries, Bloom Filters |
+| **Applied AI & ML** | PyTorch, Hugging Face Transformers, LangGraph, LangChain, Attention Probing, Prompt-Injection Defense, Constrained Logit Decoding, Logistic Regression, Pinecone Vector DB |
+| **Security & Cryptography** | AES-256-GCM, Argon2id, Cauchy Reed-Solomon Erasure Coding, BIP-39, SHA-256 Chained Audits, CodeQL, TruffleHog Secret Scanning, Row Level Security (RLS) |
+| **Full-Stack & APIs** | Next.js (15/16), React (18/19), FastAPI, Node.js, Vite, Tailwind CSS, REST, WebSocket / NDJSON Streaming, Model Context Protocol (MCP) |
+| **Hardware & Edge** | NFC (NTAG213/215/216), PC/SC Smart Card API, PN532 Serial Interfaces, React Native Android/iOS |
+| **DevOps & Quality** | GitHub Actions CI/CD, GitHub Pages, Supabase / PostgreSQL, Jest (347 tests), pytest (130 tests), Dependabot |
 
 ---
 
-<br/>
+## GitHub Activity
 
-## Connect With Me
+Contribution activity, language distribution, and repository health are refreshed automatically through GitHub Actions.
 
-<p align="center">
-  <a href="mailto:aryanarora26110@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aryanarora26110@gmail.com-D4A373?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/aryanaroracs">
-    <img src="https://img.shields.io/badge/LinkedIn-aryanaroracs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/FROSTY-MUG">
-    <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+<!-- BEGIN:DYNAMIC_METRICS -->
+| Metric | Verified Value | Source |
+|---|---|---|
+| **Public Repositories** | `9` | GitHub API |
+| **Total Stargazers** | `5` | Verified Public Stars |
+| **Automation Pipeline** | GitHub Actions | Daily refresh + push event |
+| **Data Timestamp** | `2026-11-25T15:18:20.705044Z` | Automated Bot Sync |
 
-<br/>
+#### Recent Repository Updates
+- **[Ghost-Tag](https://github.com/FROSTY-MUG/Ghost-Tag)** (`2026-11-25`): Zero-knowledge, offline-first encrypted vaults for NFC tags — AES-256-GCM, Argon2id, Reed-
+- **[FROSTY-MUG](https://github.com/FROSTY-MUG/FROSTY-MUG)** (`2026-11-25`): Active development
+- **[Genome_Firewall](https://github.com/FROSTY-MUG/Genome_Firewall)** (`2026-11-22`): Active development
+- **[jocky-](https://github.com/FROSTY-MUG/jocky-)** (`2026-10-17`): Active development
+<!-- END:DYNAMIC_METRICS -->
+
+### Language Distribution
+
+<!-- BEGIN:DYNAMIC_LANGUAGES -->
+| Language | Percentage | Verified Repositories |
+|---|---|---|
+| `TypeScript` | 37.97% `███████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `Python` | 22.08% `████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `JavaScript` | 13.55% `██` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `C++` | 9.11% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `Rust` | 6.85% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `HTML` | 2.33% `` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+<!-- END:DYNAMIC_LANGUAGES -->
+
+---
+
+## Open Source & Community
+
+- **Maintainer & Lead:** Maintainer of `Ghost-Tag` (offline NFC vaults) and `jocky-` (incident response compiler).
+- **Project Lead & Core Architect:** Architect of `Genome_Firewall` v2.0 (multithreaded biosecurity screening) and core author of `CareSentry-AI` (medical LLM safety harness).
+- **Standards & Specifications:** Published 3 Agent Skills specifications adhering to the [Agent Skills Open Standard](https://agentskills.io) in the `CareSentry` ecosystem.
+
+---
+
+## Verified Engineering Experience & Competitions
+
+- **IIT Roorkee FinCortex:** **1st Place Champion** — Engineered and deployed a multi-model real-time financial intelligence dashboard with consensus verification under a 72-hour constraint (200+ competing engineering teams).
+- **IEEE Logixcape:** **1st Place Champion** — Ranked 1st across 3 rounds of advanced algorithmic problem-solving and systems logic puzzles (300+ participants).
+- **Kindle Junior 4.0 (IEEE - GEU):** **1st Place Champion** — Designed and delivered an AI assessment and career recommendation workflow.
+- **DigiTech Titans:** **1st Place Champion** — Solved 8 intensive full-stack and systems engineering challenges in 84 minutes.
+- **Academic Foundation:** B.Tech in Computer Science & Engineering (Honours in AI & Machine Learning), Graphic Era University, Dehradun.
+
+---
+
+## Contact
+
+Open to **Forward Deployed Engineer (FDE)**, **Solutions Engineer**, **Customer Engineer**, and **Applied AI / Systems Engineering** roles.
+
+- **Email:** [aryanarora26110@gmail.com](mailto:aryanarora26110@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aryanaroracs](https://linkedin.com/in/aryanaroracs)
+- **GitHub:** [github.com/FROSTY-MUG](https://github.com/FROSTY-MUG)
+- **Portfolio:** [frosty-mug.github.io](https://frosty-mug.github.io)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A373&height=80&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <i>Late nights, strong coffee, clean code. That's the way.</i>
+  <sub>Last refreshed automatically from public GitHub activity via GitHub Actions on P26-11-25<!-- END:LAST_UPDATED -->.</sub>
 </p>
