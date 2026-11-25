@@ -9,7 +9,7 @@
     "following": 1,
     "avatar_url": "https://avatars.githubusercontent.com/u/77809425?v=4",
     "profile_url": "https://github.com/FROSTY-MUG",
-    "harvested_at": "2026-11-25T15:38:46.468507+00:00",
+    "harvested_at": "2026-11-25T15:40:37.628499+00:00",
     "total_stars": 5,
     "total_forks": 11
   },
@@ -290,9 +290,15 @@
       "topics": [],
       "created_at": "2026-07-27T17:28:10Z",
       "updated_at": "2026-11-25T15:31:38Z",
-      "pushed_at": "2026-11-25T15:31:59Z",
+      "pushed_at": "2026-11-25T15:40:22Z",
       "default_branch": "main",
       "recent_commits": [
+        {
+          "sha": "933d30c",
+          "message": "feat: align profile and portfolio strictly to 4 pinned systems with Skeletor-Pirate inspired HUD layout and skillicons",
+          "date": "2026-11-25T15:39:16Z",
+          "author": "Aryan Arora"
+        },
         {
           "sha": "5eb748b",
           "message": "chore: refresh portfolio telemetry from GitHub [skip ci]",
@@ -303,12 +309,6 @@
           "sha": "a2e1794",
           "message": "feat: executive FDE profile README, static portfolio web app, and telemetry automation",
           "date": "2026-11-25T15:31:09Z",
-          "author": "Aryan Arora"
-        },
-        {
-          "sha": "d789093",
-          "message": "Remove unused 3D contribution workflow after removing its reference from README",
-          "date": "2026-07-28T04:39:46Z",
           "author": "Aryan Arora"
         }
       ],
