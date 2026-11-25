@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Executive Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090d16,50:0f172a,100:1e293b&height=190&section=header&text=ARYAN%20ARORA&fontSize=48&fontAlignY=40&desc=Forward%20Deployed%20Engineer%20%7C%20Applied%20AI%20%26%20Systems%20Solutions&descFontSize=17&descAlignY=65&fontColor=ffffff&stroke=38bdf8&strokeWidth=1" width="100%" alt="Aryan Arora - Forward Deployed Engineer" />
+<img src="assets/header.svg" width="100%" alt="Aryan Arora - Forward Deployed Engineer" />
 
 <p align="center">
   <a href="https://github.com/FROSTY-MUG">
@@ -32,7 +32,7 @@
 
 </div>
 
-## 🎯 Executive Profile & Core Philosophy
+## Executive Profile & Core Philosophy
 
 <table width="100%">
   <thead>
@@ -68,7 +68,7 @@
 
 ---
 
-## ⚡ The Forward Deployed Engineering Playbook
+## Forward Deployed Engineering Playbook
 
 How I take complex, unstructured client problems and engineer them into reliable production software:
 
@@ -81,12 +81,12 @@ How I take complex, unstructured client problems and engineer them into reliable
 
 ---
 
-## 🚀 Pinned Flagship Systems
+## Pinned Flagship Systems
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/FROSTY-MUG/Ghost-Tag">Ghost-Tag</a></h3>
+      <h3><a href="https://github.com/FROSTY-MUG/Ghost-Tag">Ghost-Tag</a></h3>
       <p><b>Offline-First Zero-Knowledge Encrypted NFC Vault System</b></p>
       <ul>
         <li><b>Customer Problem:</b> Physical NFC tags (NTAG213/215/216) are unencrypted, constrained (144–888 bytes), and vulnerable to RF sniffing and physical wear.</li>
@@ -103,7 +103,7 @@ How I take complex, unstructured client problems and engineer them into reliable
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/FROSTY-MUG/Genome_Firewall">Genome_Firewall</a></h3>
+      <h3><a href="https://github.com/FROSTY-MUG/Genome_Firewall">Genome_Firewall</a></h3>
       <p><b>High-Throughput Multithreaded C++ Biosecurity & AMR Defense Engine</b></p>
       <ul>
         <li><b>Customer Problem:</b> Bacterial superbug detection in raw gigabyte FASTA sequences requires fast, low-cost screening that cannot rely on heavy cloud Python runtimes.</li>
@@ -122,7 +122,7 @@ How I take complex, unstructured client problems and engineer them into reliable
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/FROSTY-MUG/CareSentry">CareSentry</a></h3>
+      <h3><a href="https://github.com/FROSTY-MUG/CareSentry">CareSentry</a></h3>
       <p><b>Deterministic Attention-Anchored Safety Harness for Medical LLMs</b></p>
       <ul>
         <li><b>Customer Problem:</b> Enterprise clinical models suffer from attention dilution in long patient histories, causing missed contraindications and hallucinated orders.</li>
@@ -139,7 +139,7 @@ How I take complex, unstructured client problems and engineer them into reliable
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/FROSTY-MUG/FPA">FPA (FP&A Studio)</a></h3>
+      <h3><a href="https://github.com/FROSTY-MUG/FPA">FPA (FP&A Studio)</a></h3>
       <p><b>Real-Time Financial Planning & Analysis Dashboard Powered by Groq & Pinecone</b></p>
       <ul>
         <li><b>Customer Problem:</b> Corporate FP&A teams spend days consolidating unstructured financial reports and modeling sensitivity scenarios with high manual latency.</li>
@@ -160,20 +160,20 @@ How I take complex, unstructured client problems and engineer them into reliable
 
 ---
 
-## 🏆 Hackathon Championship Track Record
+## Hackathon Championship Track Record
 
 <p align="left">
 Demonstrated capability to understand enterprise problem statements, architect full systems, and win top national technical competitions under tight deadlines:
 </p>
 
-- 🥇 **IIT Roorkee FinCortex &mdash; 1st Place Champion:** Architected and deployed a multi-model financial intelligence dashboard with consensus verification in a 72-hour sprint against 200+ engineering teams.
-- 🥇 **IEEE Logixcape &mdash; 1st Place Champion:** Ranked 1st across 3 technical rounds covering advanced algorithmic puzzle solving, systems logic, and rapid debugging among 300+ participants.
-- 🥇 **Kindle Junior 4.0 (IEEE - GEU) &mdash; 1st Place Champion:** Delivered an AI student evaluation and career recommendation pipeline with multi-stage LLM evaluation workflows.
-- 🥇 **DigiTech Titans &mdash; 1st Place Champion:** Solved 8 intensive systems and full-stack challenges in 84 minutes, placing 1st in accuracy and execution velocity.
+- **1st Place Champion &mdash; IIT Roorkee FinCortex:** Architected and deployed a multi-model financial intelligence dashboard with consensus verification in a 72-hour sprint against 200+ engineering teams.
+- **1st Place Champion &mdash; IEEE Logixcape:** Ranked 1st across 3 technical rounds covering advanced algorithmic puzzle solving, systems logic, and rapid debugging among 300+ participants.
+- **1st Place Champion &mdash; Kindle Junior 4.0 (IEEE - GEU):** Delivered an AI student evaluation and career recommendation pipeline with multi-stage LLM evaluation workflows.
+- **1st Place Champion &mdash; DigiTech Titans:** Solved 8 intensive systems and full-stack challenges in 84 minutes, placing 1st in accuracy and execution velocity.
 
 ---
 
-## 🛠️ Technical Capabilities & Tooling
+## Technical Capabilities & Tooling
 
 <div align="center">
 
@@ -217,7 +217,7 @@ Demonstrated capability to understand enterprise problem statements, architect f
 
 ---
 
-## 📊 Live GitHub Activity & Telemetry
+## Live GitHub Activity & Telemetry
 
 <div align="center">
 
@@ -246,23 +246,26 @@ Demonstrated capability to understand enterprise problem statements, architect f
 </div>
 
 <!-- BEGIN:DYNAMIC_METRICS -->
-| Metric | Verified Value | Source |
-|---|---|---|
-| **Public Repositories** | `9` | GitHub API |
-| **Total Stargazers** | `5` | Verified Public Stars |
-| **Automation Pipeline** | GitHub Actions | Daily refresh + push event |
-| **Data Timestamp** | `2026-11-25T15:40:37.628499+00:00` | Automated Bot Sync |
+| Metric | Telemetry Count | Verification Source |
+|:---|:---:|:---|
+| **Public Systems Repositories** | `9` | GitHub REST API v3 |
+| **Total Stargazers Received** | `5` | Verified Public Stars |
+| **Automated Bot Telemetry Pipeline** | Active | Scheduled GitHub Actions (`0 0,12 * * *`) |
+| **Telemetry Harvest Timestamp** | `2026-11-25 15:40:37 UTC` | Automated Bot Sync |
 
-#### Pinned Repository Telemetry
-- **[Ghost-Tag](https://github.com/FROSTY-MUG/Ghost-Tag)** (`2026-11-25`): Zero-knowledge, offline-first encrypted vaults for NFC tags — AES-256-GCM, Argon2id, 
-- **[Genome_Firewall](https://github.com/FROSTY-MUG/Genome_Firewall)** (`2026-11-22`): High-throughput C++ antimicrobial-resistance screening and decision-support engine
-- **[CareSentry](https://github.com/FROSTY-MUG/CareSentry)** (`2026-10-10`): Deterministic attention-anchored context sentry and defense guard for medical models
-- **[FPA](https://github.com/FROSTY-MUG/FPA)** (`2026-04-08`): IITR
+#### Pinned Systems Health & Deployment State
+
+| Pinned System | Primary Stack | Stars | Forks | Last Pushed | Verification & Status |
+|:---|:---|:---:|:---:|:---:|:---|
+| **[Ghost-Tag](https://github.com/FROSTY-MUG/Ghost-Tag)** | `TypeScript` &bull; `C++17` &bull; `NFC` | 4 ⭐ | 2 🍴 | `2026-11-25` | `v2.0.6` Released &bull; 347 Jest Tests &bull; Staging `v2.1.0` |
+| **[Genome_Firewall](https://github.com/FROSTY-MUG/Genome_Firewall)** | `C++14` &bull; `POSIX mmap` &bull; `Threads` | 1 ⭐ | 4 🍴 | `2026-11-22` | Zero-Copy Parser &bull; 3.4x Wall-Clock Speedup |
+| **[CareSentry](https://github.com/FROSTY-MUG/CareSentry)** | `Python` &bull; `PyTorch` &bull; `MCP` | 0 ⭐ | 1 🍴 | `2026-10-10` | 130 Tests Passing &bull; Invariant Safety Harness |
+| **[FPA](https://github.com/FROSTY-MUG/FPA)** | `TypeScript` &bull; `Groq` &bull; `Pinecone` | 0 ⭐ | 1 🍴 | `2026-04-08` | 1st Place IIT Roorkee FinCortex &bull; Real-time AI |
 <!-- END:DYNAMIC_METRICS -->
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
