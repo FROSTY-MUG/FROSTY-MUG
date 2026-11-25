@@ -763,3 +763,56 @@ code {
     display: none;
   }
 }
+
+/* Profile Table HUD Diagnostics */
+.profile-table-wrapper {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 8px 16px;
+  overflow-x: auto;
+}
+
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.profile-table td {
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-secondary);
+}
+
+.profile-table tr:last-child td {
+  border-bottom: none;
+}
+
+.profile-table td strong {
+  color: var(--text-primary);
+}
+
+.profile-table .col-head {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  color: var(--accent-primary);
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+.icon-tray {
+  margin: 12px 0;
+}
+
+.icon-tray img {
+  max-width: 100%;
+  height: auto;
+}
+
+.skill-desc {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}

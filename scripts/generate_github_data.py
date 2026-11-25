@@ -107,8 +107,8 @@ def main():
     language_bytes = {}
     processed_repos = []
 
-    # Repositories to highlight or filter
-    pinned_candidates = ["Ghost-Tag", "CareSentry", "Genome_Firewall", "jocky-", "vc_brain", "FPA"]
+    # Repositories to highlight (strictly user-specified)
+    pinned_candidates = ["Ghost-Tag", "Genome_Firewall", "CareSentry", "FPA"]
 
     for r in raw_repos:
         name = r.get("name")

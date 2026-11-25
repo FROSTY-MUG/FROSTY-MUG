@@ -9,7 +9,7 @@
     "following": 1,
     "avatar_url": "https://avatars.githubusercontent.com/u/77809425?v=4",
     "profile_url": "https://github.com/FROSTY-MUG",
-    "harvested_at": "2026-11-25T15:31:57.836398+00:00",
+    "harvested_at": "2026-11-25T15:38:46.468507+00:00",
     "total_stars": 5,
     "total_forks": 11
   },
@@ -183,60 +183,6 @@
       "is_pinned": true
     },
     {
-      "name": "jocky-",
-      "description": "",
-      "html_url": "https://github.com/FROSTY-MUG/jocky-",
-      "homepage": "",
-      "is_fork": false,
-      "stars": 0,
-      "forks": 1,
-      "open_issues": 10,
-      "primary_language": "Rust",
-      "languages": {
-        "Rust": 325106,
-        "C++": 48417,
-        "Go": 20758,
-        "Shell": 15777,
-        "PowerShell": 14057,
-        "Python": 13138,
-        "TypeScript": 5144,
-        "Makefile": 4665,
-        "C": 4355,
-        "Just": 3949,
-        "CMake": 3580,
-        "Swift": 2946,
-        "Batchfile": 987,
-        "HTML": 307,
-        "CSS": 182
-      },
-      "topics": [],
-      "created_at": "2026-09-26T20:11:51Z",
-      "updated_at": "2026-09-27T22:37:58Z",
-      "pushed_at": "2026-10-17T13:42:47Z",
-      "default_branch": "main",
-      "recent_commits": [
-        {
-          "sha": "66d35b9",
-          "message": "docs(handoff): record commit SHA in STATE.md",
-          "date": "2026-09-27T22:37:43Z",
-          "author": "Aryan Arora"
-        },
-        {
-          "sha": "3834fa8",
-          "message": "docs(interfaces): freeze consent token, findings schema, manager API",
-          "date": "2026-09-27T22:36:46Z",
-          "author": "Aryan Arora"
-        },
-        {
-          "sha": "0e3e3c5",
-          "message": "STEP 3A: Windows C++ agent -- consent, in-process .jkm loader, collectors, BYOVD + injection detectors",
-          "date": "2026-09-27T22:35:27Z",
-          "author": "Aryan Arora"
-        }
-      ],
-      "is_pinned": true
-    },
-    {
       "name": "CareSentry",
       "description": "",
       "html_url": "https://github.com/FROSTY-MUG/CareSentry",
@@ -277,51 +223,6 @@
           "message": "Merge pull request #6 from Skeletor-Pirate/lane/studio",
           "date": "2026-10-10T09:57:42Z",
           "author": "Skeletor-Pirate"
-        }
-      ],
-      "is_pinned": true
-    },
-    {
-      "name": "vc_brain",
-      "description": "",
-      "html_url": "https://github.com/FROSTY-MUG/vc_brain",
-      "homepage": "https://vc-brain-seven.vercel.app",
-      "is_fork": false,
-      "stars": 0,
-      "forks": 2,
-      "open_issues": 0,
-      "primary_language": "TypeScript",
-      "languages": {
-        "TypeScript": 299417,
-        "Python": 194759,
-        "CSS": 6231,
-        "JavaScript": 3986,
-        "Shell": 728,
-        "Procfile": 50
-      },
-      "topics": [],
-      "created_at": "2026-07-18T19:07:41Z",
-      "updated_at": "2026-07-19T12:42:57Z",
-      "pushed_at": "2026-07-19T12:42:53Z",
-      "default_branch": "main",
-      "recent_commits": [
-        {
-          "sha": "df33743",
-          "message": "docs: add simple implementation tutorial",
-          "date": "2026-07-19T12:42:47Z",
-          "author": "Aryan Arora"
-        },
-        {
-          "sha": "5075f23",
-          "message": "docs: tutorials included",
-          "date": "2026-07-19T12:40:46Z",
-          "author": "Aryan Arora"
-        },
-        {
-          "sha": "b87f73f",
-          "message": "docs: organize project files and generate comprehensive documentation architecture",
-          "date": "2026-07-19T12:39:46Z",
-          "author": "Aryan Arora"
         }
       ],
       "is_pinned": true
@@ -389,9 +290,15 @@
       "topics": [],
       "created_at": "2026-07-27T17:28:10Z",
       "updated_at": "2026-11-25T15:31:38Z",
-      "pushed_at": "2026-11-25T15:31:47Z",
+      "pushed_at": "2026-11-25T15:31:59Z",
       "default_branch": "main",
       "recent_commits": [
+        {
+          "sha": "5eb748b",
+          "message": "chore: refresh portfolio telemetry from GitHub [skip ci]",
+          "date": "2026-11-25T15:31:57Z",
+          "author": "github-actions[bot]"
+        },
         {
           "sha": "a2e1794",
           "message": "feat: executive FDE profile README, static portfolio web app, and telemetry automation",
@@ -402,12 +309,6 @@
           "sha": "d789093",
           "message": "Remove unused 3D contribution workflow after removing its reference from README",
           "date": "2026-07-28T04:39:46Z",
-          "author": "Aryan Arora"
-        },
-        {
-          "sha": "b0782bb",
-          "message": "Fix banner link, update workflow actions to latest versions, restore 3D contribution workflow",
-          "date": "2026-07-28T04:38:29Z",
           "author": "Aryan Arora"
         }
       ],
@@ -581,7 +482,7 @@
           "author": "Aryan Arora"
         }
       ],
-      "is_pinned": true
+      "is_pinned": false
     },
     {
       "name": "DSCPP-PBL",
@@ -716,7 +617,7 @@
           "author": "Aryan Arora"
         }
       ],
-      "is_pinned": true
+      "is_pinned": false
     },
     {
       "name": "FPA",

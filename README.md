@@ -1,128 +1,232 @@
-# Aryan Arora
+<div align="center">
 
-**Forward Deployed Engineer | Systems, Applied AI & Security Engineering**  
-Uttarakhand, India · [LinkedIn](https://linkedin.com/in/aryanaroracs) · [GitHub](https://github.com/FROSTY-MUG) · [Email](mailto:aryanarora26110@gmail.com)
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=240&section=header&text=ARYAN%20ARORA&fontSize=52&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Systems%20Engineering&descFontSize=18&descAlignY=62&fontColor=ffffff&stroke=38bdf8&strokeWidth=1" width="100%" alt="Aryan Arora - Header Banner" />
 
----
+<p align="center">
+  <a href="https://github.com/FROSTY-MUG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Zero-Knowledge+Encrypted+NFC+Vaults+(Ghost-Tag);Architecting+High-Throughput+C%2B%2B+Genomic+Firewalls;Engineering+Deterministic+Safety+Guardrails+for+Medical+LLMs;Shipping+Real-Time+Financial+Analytics+Engines+(FP%26A);4x+1st+Place+Hackathon+Champion+(IIT+Roorkee%2C+IEEE)" alt="Typing SVG" />
+  </a>
+</p>
 
-I build end-to-end software systems that bridge ambiguous real-world requirements with high-performance, deterministic engineering. My work spans offline-first cryptographic hardware vaults, zero-copy C++ genomic defense engines, deterministic LLM evaluation harnesses, and full-stack multi-agent workflow systems. I focus on shipping verifiable, well-tested, and production-disciplined solutions across security, systems, and applied AI.
-
----
-
-## Current Focus
-
-- **Cryptographic Storage Hardening:** Advancing `Ghost-Tag` from `v2.0.6` stable release through `v2.1.0` staging, implementing Cauchy Reed-Solomon $(N, K)$ erasure coding over $\mathrm{GF}(2^8)$ and desktop PC/SC + PN532 hardware integration.
-- **Applied AI Safety & Guardrails:** Maintaining `CareSentry-AI`, refining attention-probing z-score thresholds, blockwise $O(S \cdot K)$ memory bounding, and reverse-omission detection across open-weight clinical models.
-- **High-Throughput Systems:** Optimizing `Genome_Firewall` v2.0 C++14 memory-mapped FASTA ingestion pipelines and mutation-tolerant algorithmic indexing.
-- **Domain-Specific Compilers:** Developing `JOCKY`, a consent-bound DFIR compiler and runtime platform in Rust and C++ for authorized incident response (SIH26148).
-
----
-
-## Flagship Engineering Work
-
-### Ghost-Tag
-
-**Offline-first encrypted NFC data vault across Android, web, and desktop hardware.**
-
-[Repository](https://github.com/FROSTY-MUG/Ghost-Tag) · [Live Web Client](https://frosty-mug.github.io/Ghost-Tag/) · [Security Policy](https://github.com/FROSTY-MUG/Ghost-Tag/blob/main/SECURITY.md) · [Project Status](https://github.com/FROSTY-MUG/Ghost-Tag/blob/main/PROJECT-STATUS.md)
-
-**Problem:**  
-Physical NFC tags are convenient but insecure by default. Anyone with an NFC-enabled smartphone can read unprotected user data, and lost or cloned tags expose sensitive credentials and recovery records.
-
-**What I built:**  
-Ghost-Tag encrypts user data entirely client-side and writes authenticated AES-256-GCM ciphertext envelopes to physical NTAG213, NTAG215, and NTAG216 tags. It supports single-tag vaults, multi-tag bulk file vaults with erasure coding, BIP-39 recovery phrases, cross-platform Android and web interfaces, a desktop PC/SC and PN532 hardware bridge, and opt-in zero-knowledge cloud sync.
-
-**Engineering highlights:**
-- **Two-Tier Key Hierarchy:** Derives an ephemeral KEK from a user passphrase via Argon2id; generates unique 256-bit CSPRNG DEKs per vault stored exclusively in AES-256-GCM wrapped form. KEKs and plaintexts are zeroized and never persisted.
-- **Tamper-Evident Envelopes:** Additional Authenticated Data (AAD) binds envelope headers to prevent cross-tag swapping, purpose alteration, and length-extension attacks. Writes require independent byte-for-byte read-back verification.
-- **Fault-Tolerant Multi-Tag Sharding:** Implemented Cauchy Reed-Solomon $(N, K)$ erasure coding over $\mathrm{GF}(2^8)$ to distribute file fragments across tag clusters, allowing full recovery from damaged tags.
-- **Verification & CI/CD:** Maintained 347 Jest unit tests across 26 suites, 22 PN532 serial communication tests, CodeQL security scanning, TruffleHog secret leak prevention, and automated GitHub Pages releases.
-- **Status & Boundaries:** Latest published release is `v2.0.6`; `v2.1.0` is active unreleased staging software. Protects ciphertext confidentiality against RF interception and tag tampering; does not claim forensic silicon erasure or root-compromised host defense.
-
-**Stack:**  
-`TypeScript` · `React Native` · `Kotlin` · `C++17/NDK` · `Vite` · `WebCrypto` · `Supabase` · `PostgreSQL/RLS` · `NFC / PC/SC` · `Jest` · `CodeQL`
+<!-- Badges & Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/aryanaroracs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aryanarora26110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/FROSTY-MUG">
+    <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/FROSTY-MUG?tab=repositories">
+    <img src="https://img.shields.io/badge/Status-Deploying_Systems-00e676?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
+  </a>
+</p>
 
 ---
 
-### Genome Firewall (v2.0)
+</div>
 
-**High-throughput C++ antimicrobial-resistance screening and decision-support engine.**
+## 🛰️ `SYSTEM_PROFILE // FORWARD DEPLOYED ENGINEER`
 
-[Repository](https://github.com/FROSTY-MUG/Genome_Firewall) · [Architecture Spec](https://github.com/FROSTY-MUG/Genome_Firewall/blob/main/docs/ARCHITECTURE.md) · [Web Console](https://github.com/FROSTY-MUG/Genome_Firewall/tree/main/web) · [API Server](https://github.com/FROSTY-MUG/Genome_Firewall/blob/main/api/server.js)
-
-**Problem:**  
-Identifying antimicrobial resistance (AMR) superbugs from raw bacterial genomes requires scanning multi-gigabyte files against massive marker catalogs with mutation tolerance under strict compute budgets.
-
-**What I built:**  
-As Project Lead and Core Architect, I engineered a pure C/C++14 systems pipeline that ingests raw FASTA genomes without external runtime dependencies, cross-references k-mers against indexed AMR catalogs, and generates tiered per-drug-class resistance predictions using an embedded logistic regression engine.
-
-**Engineering highlights:**
-- **Zero-Copy Memory-Mapped Parsing:** Built `FastaMmapParser` leveraging OS virtual memory pages (`CreateFileMapping` / `mmap`) with 64 KB chunking and overlap buffers to prevent missed markers across block boundaries.
-- **Algorithmic Data Structures:** Designed a custom 4-ary genomic prefix trie (40-byte node footprint) paired with a custom 8 KB arena block allocator, indexing 4,500,462 trie nodes from the 455-marker CARD catalog.
-- **Multi-Tier Fast Filtering:** Integrated a 1 MB Bloom filter with 3 hash functions for $O(1)$ fast rejection of negative sequences, alongside Hamming distance $\le 1$ mutation-tolerant searching.
-- **Lock-Free Concurrency:** Implemented multithreaded sliding-window 21-mer scoring using native OS threads, immutable trie reads, and atomic counters.
-- **Benchmarked Outcomes:** On an AMD Ryzen 5 hexa-core system (MinGW GCC 6.3 `-O3`), v2.0 reduced trie arena memory by 78.3% (404.8 MB to 88.0 MB), reduced inference scan time by 12x (263.27 ms to 21.99 ms), and cut total wall-clock time by 3.4x over the project's v1.0 baseline.
-- **Disclaimer:** Defensive decision support only; outputs must be confirmed by standard laboratory antimicrobial susceptibility testing.
-
-**Stack:**  
-`C/C++14` · `POSIX mmap / Windows File Mapping` · `Native Threads` · `Atomics` · `Custom Allocators` · `Logistic Regression` · `Node.js` · `HTML5/Vanilla JS`
-
----
-
-### CareSentry-AI
-
-**Deterministic safety harness for open-weight medical LLMs: attention probing, clinical invariant checks, and inference-time guardrails.**
-
-[Repository](https://github.com/FROSTY-MUG/CareSentry) · [Authors & Roles](https://github.com/FROSTY-MUG/CareSentry/blob/main/AUTHORS.md) · [Benchmark Evidence](https://github.com/FROSTY-MUG/CareSentry/blob/main/benchmark_results.json) · [Agent Skills](https://github.com/FROSTY-MUG/CareSentry/tree/main/.agents/skills)
-
-**Problem:**  
-Long clinical contexts dilute an LLM's attention to critical constraints buried in patient records, increasing the risk of missed drug allergies, adverse cross-reactivity, and unsupported treatment recommendations.
-
-**What I co-built:**  
-Co-developed a tri-layer safety harness that directly probes transformer multi-head attention weights, verifies clinical safety invariants against standardized ontologies, and enforces inference-time guardrails against prompt injection and hallucinated claims.
-
-**Engineering highlights:**
-- **Attention Probing & Statistical Scoring:** Designed PyTorch forward hooks to extract attention weights across final decision layers. Built a blockwise memory-bounded estimator operating in $O(S \cdot K)$ memory rather than $O(S^2)$ for contexts up to 24,000 tokens, coupled with depth-stratified z-score controls and bootstrap 95% confidence intervals.
-- **Clinical Invariant Engine:** Implemented automated rules for cross-reactivity, renal dosing (Cockcroft-Gault CrCl & CKD-EPI 2021 eGFR), Beers Criteria, drug-drug interactions, and reverse-omission detection across 180+ drug aliases normalized via RxNorm Lite and WHO-ATC.
-- **Inference Defense & Auditability:** Built prompt-injection scanners, invariant-guided constrained decoding via prefix tries, sentence-level evidence grounding, and a SHA-256 chained tamper-evident audit log with 2.47 ms CPU latency.
-- **Developer Interfaces:** Delivered a Gradio clinician UI, OpenAI-compatible safety proxy gateway, Model Context Protocol (MCP) server, and three Agent Skills specifications.
-- **Quality Assurance:** Backed by 130 tests across all tracks (100% passing). Tested strictly against synthetic clinical datasets; designed for local, air-gapped execution requiring human clinical oversight.
-
-**Stack:**  
-`Python 3.10+` · `PyTorch` · `Hugging Face Transformers` · `Gradio` · `MCP` · `RxNorm Lite / WHO-ATC` · `pytest` · `SHA-256`
+<table width="100%">
+  <tr>
+    <td width="22%"><b>Operator</b></td>
+    <td><b>Aryan Arora</b> (<code>@FROSTY-MUG</code>)</td>
+  </tr>
+  <tr>
+    <td><b>Specialization</b></td>
+    <td><b>Forward Deployed Engineer (FDE)</b> • Systems Architecture • Applied AI Safety • Cryptographic Infrastructure</td>
+  </tr>
+  <tr>
+    <td><b>Academic Foundation</b></td>
+    <td><b>B.Tech in Computer Science & Engineering (AI & Machine Learning Honours)</b> @ Graphic Era University</td>
+  </tr>
+  <tr>
+    <td><b>Engineering Philosophy</b></td>
+    <td><i>"Turn ambiguous customer and domain problems into deterministic, tested, and high-performance production systems."</i></td>
+  </tr>
+  <tr>
+    <td><b>Competition Record</b></td>
+    <td><b>4x 1st Place Champion</b> (IIT Roorkee FinCortex, IEEE Logixcape, Kindle Junior 4.0, DigiTech Titans)</td>
+  </tr>
+  <tr>
+    <td><b>Location & Relocation</b></td>
+    <td>Uttarakhand, India • Open to Forward Deployed, Solutions & Applied AI Engineering Roles (Remote / Global Relocation)</td>
+  </tr>
+</table>
 
 ---
 
-## Selected Projects
+## ⚡ `PINNED FLAGSHIP SYSTEMS`
 
-| Project | Problem & Solution | Technical Stack | Verifiable Evidence |
-|---|---|---|---|
-| **[JOCKY](https://github.com/FROSTY-MUG/jocky-)** | Consent-bound DFIR platform and domain-specific compiler for authorized incident response on degraded hosts (SIH26148). Built lexer, AST, recursive-descent parser, and Windows C++ agent loader. | `Rust`, `C++17`, `LLVM`, `Logos`, `Shell` | [CITATION.cff](https://github.com/FROSTY-MUG/jocky-/blob/main/CITATION.cff) · [Compiler Source](https://github.com/FROSTY-MUG/jocky-/tree/main/compiler) |
-| **[VC Brain](https://github.com/FROSTY-MUG/vc_brain)** | Full-stack venture deal-flow platform using LangGraph stateful multi-agent pipelines to score pitch decks, ingest PDFs, and draft investment memos. | `Next.js 16`, `FastAPI`, `LangGraph`, `Supabase`, `PyMuPDF` | [Package Manifest](https://github.com/FROSTY-MUG/vc_brain/blob/main/package.json) · [API Endpoints](https://github.com/FROSTY-MUG/vc_brain/blob/main/backend/main.py) |
-| **[FP&A Studio](https://github.com/FROSTY-MUG/FPA)** | Real-time financial analysis dashboard combining Groq ultra-low-latency LPU inference, Pinecone vector embeddings, and multi-model AI forecasting. | `TypeScript`, `Next.js`, `Pinecone`, `Groq`, `Google GenAI` | [Project Metadata](https://github.com/FROSTY-MUG/FPA/blob/main/metadata.json) · [Dependencies](https://github.com/FROSTY-MUG/FPA/blob/main/package.json) |
-| **[DSCPP-PBL](https://github.com/FROSTY-MUG/DSCPP-PBL)** | Academic 2D RPG engine integrating classical data structures and algorithms (SegFault Studios coursework project fork). | `JavaScript`, `Phaser 4`, `C++17`, `Vite` | [Upstream Coursework Repo](https://github.com/FROSTY-MUG/DSCPP-PBL) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/FROSTY-MUG/Ghost-Tag">Ghost-Tag</a></h3>
+      <p><b>Offline-First Zero-Knowledge Encrypted NFC Vault System</b></p>
+      <ul>
+        <li><b>Hardware Cryptography:</b> AES-256-GCM authenticated envelopes written to physical NTAG213/215/216 tags with independent byte read-back verification.</li>
+        <li><b>Two-Tier Key Hierarchy:</b> Master passphrase derives ephemeral KEK via Argon2id; unique 256-bit CSPRNG DEKs per vault wrapped at rest. Plaintexts zeroized in memory.</li>
+        <li><b>Cauchy Reed-Solomon Erasure Coding:</b> Fault-tolerant sharding over $\mathrm{GF}(2^8)$ across tag clusters for resilient recovery of damaged or lost tags.</li>
+        <li><b>Cross-Platform Interfaces:</b> Android, Web, and desktop Ghost Bridge for local PC/SC + PN532 hardware transceivers.</li>
+        <li><b>Rigorous Quality Gates:</b> 347 Jest unit tests across 26 suites, 22 PN532 serial tests, CodeQL scanning, and TruffleHog secret leak prevention.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Crypto-AES--256--GCM-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/KDF-Argon2id-critical?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hardware-NFC_PC%2FSC-darkgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tests-347_Passed-brightgreen?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/FROSTY-MUG/Genome_Firewall">Genome_Firewall</a></h3>
+      <p><b>High-Throughput Multithreaded C++ Biosecurity & AMR Defense Engine</b></p>
+      <ul>
+        <li><b>Zero-Copy Memory-Mapped Parsing:</b> Custom <code>FastaMmapParser</code> using virtual memory pages (<code>mmap</code> / Win32) with 64 KB chunking and overlap buffers.</li>
+        <li><b>Genomic Prefix Trie & Arena Allocator:</b> 40-byte genomic node with 8 KB arena block allocator, indexing 4,500,462 trie nodes from the 455-marker CARD catalog.</li>
+        <li><b>Fast Rejection & Mutation Search:</b> 1 MB Bloom filter (3 hash functions) for $O(1)$ negative sequence rejection with Hamming distance $\le 1$ SNP tolerance.</li>
+        <li><b>Lock-Free Multithreading:</b> Concurrent sliding-window 21-mer scoring via native OS threads, immutable trie reads, and atomic counters.</li>
+        <li><b>Verified Benchmark Gains:</b> On AMD Ryzen 5 (GCC 6.3 <code>-O3</code>), reduced trie memory by 78.3%, cut scan time by 12x, and cut total wall-clock time by 3.4x over v1.0 baseline.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B14-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/IO-POSIX_mmap-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Structure-4--ary_Trie-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Filter-Bloom_Filter-crimson?style=flat-square" />
+        <img src="https://img.shields.io/badge/Speedup-3.4x_v2.0-orange?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/FROSTY-MUG/CareSentry">CareSentry</a></h3>
+      <p><b>Deterministic Attention-Anchored Safety Harness for Medical LLMs</b></p>
+      <ul>
+        <li><b>Attention Probing & Z-Score Scoring:</b> PyTorch forward hooks extract multi-head attention weights across final decision layers. Blockwise estimator runs in $O(S \cdot K)$ memory for contexts up to 24,000 tokens.</li>
+        <li><b>Clinical Invariant Engine:</b> Automated invariant checking for cross-reactivity, renal dosing (Cockcroft-Gault CrCl & CKD-EPI 2021), Beers Criteria, and reverse omissions across 180+ drug aliases (RxNorm Lite & WHO-ATC).</li>
+        <li><b>Inference-Time Guardrails:</b> Prompt-injection defense (jailbreaks, roleplay, delimiter spoofing), invariant-guided constrained prefix-trie decoding, and a SHA-256 chained audit trail (2.47 ms CPU latency).</li>
+        <li><b>Extensible Interfaces:</b> Gradio UI, OpenAI-compatible proxy gateway, Model Context Protocol (MCP) server, and 3 Agent Skills specifications.</li>
+        <li><b>Verified Testing:</b> 130 tests across all tracks (100% passing) evaluated on synthetic clinical test records for air-gapped deployment.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-MCP-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tests-130_Passed-brightgreen?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/FROSTY-MUG/FPA">FPA (FP&A Studio)</a></h3>
+      <p><b>Real-Time Financial Planning & Analysis Dashboard Powered by Groq & Pinecone</b></p>
+      <ul>
+        <li><b>Lineage & Recognition:</b> Direct evolution of Aryan's 1st-place winning architecture from IIT Roorkee FinCortex (200+ competing engineering teams).</li>
+        <li><b>Ultra-Low-Latency Inference:</b> Integrates Groq LPU inference for instant financial statement line-item analysis and sensitivity forecasting.</li>
+        <li><b>Hybrid AI & Vector Search:</b> Combines Pinecone vector database embeddings with Google GenAI SDK and Mistral for contextual financial insight retrieval.</li>
+        <li><b>Interactive Financial UI:</b> Full-stack Next.js dashboard with structured ledger visualization, automated scenario modeling, and financial metric telemetry.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Inference-Groq_LPU-F55036?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vector-Pinecone-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Honor-1st_IIT_Roorkee-gold?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Technical Capabilities
+## 🏆 `HACKATHON HONORS & VERIFIED ACHIEVEMENTS`
 
-Technologies derived exclusively from verified repository usage across production and active staging code:
+<p align="left">
+Key engineering accomplishments delivered under competitive high-intensity deadlines:
+</p>
 
-| Domain | Verified Technologies & Tools |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python, C++ (C++14/C++17), Rust, Kotlin, Swift, SQL / PLpgSQL |
-| **Systems & Architecture** | Memory-mapped I/O (`mmap` / Win32), Native Multithreading, Lock-free Atomics, Arena Memory Allocators, Prefix Tries, Bloom Filters |
-| **Applied AI & ML** | PyTorch, Hugging Face Transformers, LangGraph, LangChain, Attention Probing, Prompt-Injection Defense, Constrained Logit Decoding, Logistic Regression, Pinecone Vector DB |
-| **Security & Cryptography** | AES-256-GCM, Argon2id, Cauchy Reed-Solomon Erasure Coding, BIP-39, SHA-256 Chained Audits, CodeQL, TruffleHog Secret Scanning, Row Level Security (RLS) |
-| **Full-Stack & APIs** | Next.js (15/16), React (18/19), FastAPI, Node.js, Vite, Tailwind CSS, REST, WebSocket / NDJSON Streaming, Model Context Protocol (MCP) |
-| **Hardware & Edge** | NFC (NTAG213/215/216), PC/SC Smart Card API, PN532 Serial Interfaces, React Native Android/iOS |
-| **DevOps & Quality** | GitHub Actions CI/CD, GitHub Pages, Supabase / PostgreSQL, Jest (347 tests), pytest (130 tests), Dependabot |
+- 🥇 **IIT Roorkee FinCortex &mdash; 1st Place Champion:** Architected and deployed a multi-model financial intelligence dashboard with consensus verification under a strict 72-hour constraint (200+ competing engineering teams).
+- 🥇 **IEEE Logixcape &mdash; 1st Place Champion:** Ranked 1st across 3 rounds of advanced algorithmic puzzle solving, systems logic, and rapid debugging among 300+ participants.
+- 🥇 **Kindle Junior 4.0 (IEEE - GEU) &mdash; 1st Place Champion:** Designed and delivered an AI assessment and career recommendation workflow with multi-stage LLM evaluation pipelines.
+- 🥇 **DigiTech Titans &mdash; 1st Place Champion:** Solved 8 intensive full-stack and systems engineering challenges in 84 minutes, placing 1st in accuracy and execution velocity.
 
 ---
 
-## GitHub Activity
+## 🛠️ `TECH STACK & CAPABILITY MATRIX`
 
-Contribution activity, language distribution, and repository health are refreshed automatically through GitHub Actions.
+<div align="center">
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,c,rust,js,bash,kotlin,swift&theme=dark" alt="Languages" />
+</p>
+
+### ⚙️ Systems, Backend & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,vite,tailwind,docker,linux&theme=dark" alt="Systems & Backend" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Memory_Mapping-mmap_%2F_Win32-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NFC_Protocols-PC%2FSC_%26_PN532-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Concurrency-Lock--Free_Atomics-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protocol-MCP-purple?style=for-the-badge" />
+</p>
+
+### 🧠 Applied AI, Cryptography & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,postgres,supabase,firebase,sqlite&theme=dark" alt="AI & Databases" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cryptography-AES--256--GCM_%26_Argon2id-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Erasure_Coding-Cauchy_Reed--Solomon-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-Pinecone-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inference-Groq_LPU-F55036?style=for-the-badge" />
+</p>
+
+### 🧪 Testing, CI/CD & Security Audits
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,githubactions,git,vscode&theme=dark" alt="DevOps & Quality" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-347_Jest_+_130_Pytest-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AppSec-CodeQL_%26_TruffleHog-blue?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+## 📊 `GITHUB TELEMETRY & ACTIVITY METRICS`
+
+<div align="center">
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/FROSTY-MUG">
+        <img src="https://github-readme-stats.vercel.app/api?username=FROSTY-MUG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3&rank_icon=github" alt="FROSTY-MUG GitHub Stats" width="95%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/FROSTY-MUG">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROSTY-MUG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3" alt="Top Languages" width="95%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/FROSTY-MUG">
+        <img src="https://streak-stats.demolab.com/?user=FROSTY-MUG&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="95%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <!-- BEGIN:DYNAMIC_METRICS -->
 | Metric | Verified Value | Source |
@@ -130,59 +234,44 @@ Contribution activity, language distribution, and repository health are refreshe
 | **Public Repositories** | `9` | GitHub API |
 | **Total Stargazers** | `5` | Verified Public Stars |
 | **Automation Pipeline** | GitHub Actions | Daily refresh + push event |
-| **Data Timestamp** | `2026-11-25T15:31:57.836398+00:00` | Automated Bot Sync |
+| **Data Timestamp** | `2026-11-25T15:38:46.468507+00:00` | Automated Bot Sync |
 
-#### Recent Repository Updates
-- **[FROSTY-MUG](https://github.com/FROSTY-MUG/FROSTY-MUG)** (`2026-11-25`): Active development
-- **[Ghost-Tag](https://github.com/FROSTY-MUG/Ghost-Tag)** (`2026-11-25`): Zero-knowledge, offline-first encrypted vaults for NFC tags — AES-256-GCM, Argon2id, Reed-
-- **[Genome_Firewall](https://github.com/FROSTY-MUG/Genome_Firewall)** (`2026-11-22`): Active development
-- **[jocky-](https://github.com/FROSTY-MUG/jocky-)** (`2026-10-17`): Active development
+#### Pinned Repository Telemetry
+- **[Ghost-Tag](https://github.com/FROSTY-MUG/Ghost-Tag)** (`2026-11-25`): Zero-knowledge, offline-first encrypted vaults for NFC tags — AES-256-GCM, Argon2id, 
+- **[Genome_Firewall](https://github.com/FROSTY-MUG/Genome_Firewall)** (`2026-11-22`): High-throughput C++ antimicrobial-resistance screening and decision-support engine
+- **[CareSentry](https://github.com/FROSTY-MUG/CareSentry)** (`2026-10-10`): Deterministic attention-anchored context sentry and defense guard for medical models
+- **[FPA](https://github.com/FROSTY-MUG/FPA)** (`2026-04-08`): IITR
 <!-- END:DYNAMIC_METRICS -->
 
-### Language Distribution
-
-<!-- BEGIN:DYNAMIC_LANGUAGES -->
-| Language | Percentage | Verified Repositories |
-|---|---|---|
-| `TypeScript` | 37.52% `███████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `Python` | 22.04% `████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `JavaScript` | 13.47% `██` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `C++` | 9.0% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `Rust` | 6.77% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `HTML` | 2.87% `` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-<!-- END:DYNAMIC_LANGUAGES -->
-
 ---
 
-## Open Source & Community
+## 🌐 `TRANSMISSION CHANNELS // GET IN TOUCH`
 
-- **Maintainer & Lead:** Maintainer of `Ghost-Tag` (offline NFC vaults) and `jocky-` (incident response compiler).
-- **Project Lead & Core Architect:** Architect of `Genome_Firewall` v2.0 (multithreaded biosecurity screening) and core author of `CareSentry-AI` (medical LLM safety harness).
-- **Standards & Specifications:** Published 3 Agent Skills specifications adhering to the [Agent Skills Open Standard](https://agentskills.io) in the `CareSentry` ecosystem.
+<div align="center">
 
----
+<p align="center">
+  <b>Open to Forward Deployed Engineer (FDE), Solutions Engineer, and Applied AI / Systems Engineering roles.</b>
+</p>
 
-## Verified Engineering Experience & Competitions
+<p align="center">
+  <a href="https://linkedin.com/in/aryanaroracs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan_Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:aryanarora26110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aryanarora26110@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/FROSTY-MUG">
+    <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-- **IIT Roorkee FinCortex:** **1st Place Champion** — Engineered and deployed a multi-model real-time financial intelligence dashboard with consensus verification under a 72-hour constraint (200+ competing engineering teams).
-- **IEEE Logixcape:** **1st Place Champion** — Ranked 1st across 3 rounds of advanced algorithmic problem-solving and systems logic puzzles (300+ participants).
-- **Kindle Junior 4.0 (IEEE - GEU):** **1st Place Champion** — Designed and delivered an AI assessment and career recommendation workflow.
-- **DigiTech Titans:** **1st Place Champion** — Solved 8 intensive full-stack and systems engineering challenges in 84 minutes.
-- **Academic Foundation:** B.Tech in Computer Science & Engineering (Honours in AI & Machine Learning), Graphic Era University, Dehradun.
-
----
-
-## Contact
-
-Open to **Forward Deployed Engineer (FDE)**, **Solutions Engineer**, **Customer Engineer**, and **Applied AI / Systems Engineering** roles.
-
-- **Email:** [aryanarora26110@gmail.com](mailto:aryanarora26110@gmail.com)
-- **LinkedIn:** [linkedin.com/in/aryanaroracs](https://linkedin.com/in/aryanaroracs)
-- **GitHub:** [github.com/FROSTY-MUG](https://github.com/FROSTY-MUG)
-- **Portfolio:** [frosty-mug.github.io](https://frosty-mug.github.io)
-
----
+<!-- Footer Wave / Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=120&section=footer&fontColor=ffffff" width="100%" alt="Footer Banner" />
 
 <p align="center">
   <sub>Last refreshed automatically from public GitHub activity via GitHub Actions on P26-11-25<!-- END:LAST_UPDATED -->.</sub>
 </p>
+
+</div>
