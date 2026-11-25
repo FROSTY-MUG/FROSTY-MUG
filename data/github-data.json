@@ -9,7 +9,7 @@
     "following": 1,
     "avatar_url": "https://avatars.githubusercontent.com/u/77809425?v=4",
     "profile_url": "https://github.com/FROSTY-MUG",
-    "harvested_at": "2026-11-25T15:40:37.628499+00:00",
+    "harvested_at": "2026-11-25T15:52:22.720530+00:00",
     "total_stars": 5,
     "total_forks": 11
   },
@@ -290,26 +290,26 @@
       "topics": [],
       "created_at": "2026-07-27T17:28:10Z",
       "updated_at": "2026-11-25T15:31:38Z",
-      "pushed_at": "2026-11-25T15:40:22Z",
+      "pushed_at": "2026-11-25T15:52:05Z",
       "default_branch": "main",
       "recent_commits": [
         {
-          "sha": "933d30c",
-          "message": "feat: align profile and portfolio strictly to 4 pinned systems with Skeletor-Pirate inspired HUD layout and skillicons",
-          "date": "2026-11-25T15:39:16Z",
+          "sha": "5619fb5",
+          "message": "fix: replace header banner with local vector SVG, format pinned telemetry table, and remove heading emojis",
+          "date": "2026-11-25T15:51:52Z",
           "author": "Aryan Arora"
         },
         {
-          "sha": "5eb748b",
+          "sha": "9ebf449",
+          "message": "feat: bespoke executive FDE styling, Forward Deployed Engineering Playbook, and refined visual hierarchy",
+          "date": "2026-11-25T15:46:00Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "7e3521f",
           "message": "chore: refresh portfolio telemetry from GitHub [skip ci]",
-          "date": "2026-11-25T15:31:57Z",
+          "date": "2026-11-25T15:40:37Z",
           "author": "github-actions[bot]"
-        },
-        {
-          "sha": "a2e1794",
-          "message": "feat: executive FDE profile README, static portfolio web app, and telemetry automation",
-          "date": "2026-11-25T15:31:09Z",
-          "author": "Aryan Arora"
         }
       ],
       "is_pinned": false
