@@ -130,11 +130,11 @@ Contribution activity, language distribution, and repository health are refreshe
 | **Public Repositories** | `9` | GitHub API |
 | **Total Stargazers** | `5` | Verified Public Stars |
 | **Automation Pipeline** | GitHub Actions | Daily refresh + push event |
-| **Data Timestamp** | `2026-11-25T15:18:20.705044Z` | Automated Bot Sync |
+| **Data Timestamp** | `2026-11-25T15:31:57.836398+00:00` | Automated Bot Sync |
 
 #### Recent Repository Updates
-- **[Ghost-Tag](https://github.com/FROSTY-MUG/Ghost-Tag)** (`2026-11-25`): Zero-knowledge, offline-first encrypted vaults for NFC tags — AES-256-GCM, Argon2id, Reed-
 - **[FROSTY-MUG](https://github.com/FROSTY-MUG/FROSTY-MUG)** (`2026-11-25`): Active development
+- **[Ghost-Tag](https://github.com/FROSTY-MUG/Ghost-Tag)** (`2026-11-25`): Zero-knowledge, offline-first encrypted vaults for NFC tags — AES-256-GCM, Argon2id, Reed-
 - **[Genome_Firewall](https://github.com/FROSTY-MUG/Genome_Firewall)** (`2026-11-22`): Active development
 - **[jocky-](https://github.com/FROSTY-MUG/jocky-)** (`2026-10-17`): Active development
 <!-- END:DYNAMIC_METRICS -->
@@ -144,12 +144,12 @@ Contribution activity, language distribution, and repository health are refreshe
 <!-- BEGIN:DYNAMIC_LANGUAGES -->
 | Language | Percentage | Verified Repositories |
 |---|---|---|
-| `TypeScript` | 37.97% `███████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `Python` | 22.08% `████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `JavaScript` | 13.55% `██` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `C++` | 9.11% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `Rust` | 6.85% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
-| `HTML` | 2.33% `` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `TypeScript` | 37.52% `███████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `Python` | 22.04% `████` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `JavaScript` | 13.47% `██` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `C++` | 9.0% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `Rust` | 6.77% `█` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
+| `HTML` | 2.87% `` | Ghost-Tag, Genome_Firewall, CareSentry, jocky-, vc_brain |
 <!-- END:DYNAMIC_LANGUAGES -->
 
 ---
