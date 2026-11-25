@@ -1,27 +1,30 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=240&section=header&text=ARYAN%20ARORA&fontSize=52&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Systems%20Engineering&descFontSize=18&descAlignY=62&fontColor=ffffff&stroke=38bdf8&strokeWidth=1" width="100%" alt="Aryan Arora - Header Banner" />
+<!-- Executive Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090d16,50:0f172a,100:1e293b&height=190&section=header&text=ARYAN%20ARORA&fontSize=48&fontAlignY=40&desc=Forward%20Deployed%20Engineer%20%7C%20Applied%20AI%20%26%20Systems%20Solutions&descFontSize=17&descAlignY=65&fontColor=ffffff&stroke=38bdf8&strokeWidth=1" width="100%" alt="Aryan Arora - Forward Deployed Engineer" />
 
 <p align="center">
   <a href="https://github.com/FROSTY-MUG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Zero-Knowledge+Encrypted+NFC+Vaults+(Ghost-Tag);Architecting+High-Throughput+C%2B%2B+Genomic+Firewalls;Engineering+Deterministic+Safety+Guardrails+for+Medical+LLMs;Shipping+Real-Time+Financial+Analytics+Engines+(FP%26A);4x+1st+Place+Hackathon+Champion+(IIT+Roorkee%2C+IEEE)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&lines=Forward+Deployed+Engineer+%E2%80%A2+Bridging+Ambiguous+Problems+with+Production+Code;Building+Zero-Knowledge+Encrypted+NFC+Vaults+(Ghost-Tag);Architecting+High-Throughput+C%2B%2B+Genomic+Firewalls;Engineering+Deterministic+Safety+Guardrails+for+Medical+LLMs;Shipping+Real-Time+Financial+Analytics+Engines+(FP%26A);4x+1st+Place+Champion+(IIT+Roorkee+FinCortex%2C+IEEE+Logixcape)" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Badges & Social Links -->
+<!-- Executive Contact & Status Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/aryanaroracs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan_Arora-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:aryanarora26110@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-aryanarora26110@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/FROSTY-MUG">
-    <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://github.com/FROSTY-MUG?tab=repositories">
-    <img src="https://img.shields.io/badge/Status-Deploying_Systems-00e676?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Deploying_Solutions-00e676?style=flat-square&logo=codeforces&logoColor=white" alt="Status" />
   </a>
 </p>
 
@@ -29,38 +32,56 @@
 
 </div>
 
-## 🛰️ `SYSTEM_PROFILE // FORWARD DEPLOYED ENGINEER`
+## 🎯 Executive Profile & Core Philosophy
 
 <table width="100%">
-  <tr>
-    <td width="22%"><b>Operator</b></td>
-    <td><b>Aryan Arora</b> (<code>@FROSTY-MUG</code>)</td>
-  </tr>
-  <tr>
-    <td><b>Specialization</b></td>
-    <td><b>Forward Deployed Engineer (FDE)</b> • Systems Architecture • Applied AI Safety • Cryptographic Infrastructure</td>
-  </tr>
-  <tr>
-    <td><b>Academic Foundation</b></td>
-    <td><b>B.Tech in Computer Science & Engineering (AI & Machine Learning Honours)</b> @ Graphic Era University</td>
-  </tr>
-  <tr>
-    <td><b>Engineering Philosophy</b></td>
-    <td><i>"Turn ambiguous customer and domain problems into deterministic, tested, and high-performance production systems."</i></td>
-  </tr>
-  <tr>
-    <td><b>Competition Record</b></td>
-    <td><b>4x 1st Place Champion</b> (IIT Roorkee FinCortex, IEEE Logixcape, Kindle Junior 4.0, DigiTech Titans)</td>
-  </tr>
-  <tr>
-    <td><b>Location & Relocation</b></td>
-    <td>Uttarakhand, India • Open to Forward Deployed, Solutions & Applied AI Engineering Roles (Remote / Global Relocation)</td>
-  </tr>
+  <thead>
+    <tr style="border-bottom: 2px solid #38bdf8;">
+      <th colspan="2" align="left" style="padding: 10px 14px; background-color: #0f172a; color: #38bdf8; font-family: monospace;">
+        FORWARD DEPLOYED ENGINEER // DIAGNOSTIC SPECIFICATION
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="22%"><b>Operator</b></td>
+      <td><b>Aryan Arora</b> (<code>@FROSTY-MUG</code>) &bull; Forward Deployed Engineer &bull; Systems & Applied AI</td>
+    </tr>
+    <tr>
+      <td><b>Mission Profile</b></td>
+      <td><i>"Deconstruct high-ambiguity domain friction, design mathematically grounded architectures, and deploy complete, tested, and high-performance software systems directly to users and clients."</i></td>
+    </tr>
+    <tr>
+      <td><b>Academic Foundation</b></td>
+      <td><b>B.Tech in Computer Science &amp; Engineering (AI &amp; Machine Learning Honours)</b> &bull; Graphic Era University</td>
+    </tr>
+    <tr>
+      <td><b>Field Track Record</b></td>
+      <td><b>4x 1st Place Hackathon Champion</b> (IIT Roorkee FinCortex &bull; IEEE Logixcape &bull; Kindle Junior 4.0 &bull; DigiTech Titans)</td>
+    </tr>
+    <tr>
+      <td><b>Target Engagements</b></td>
+      <td>Forward Deployed Engineer (FDE) &bull; Solutions Engineer &bull; Applied AI & Systems Engineer (Open to Remote / Global Relocation)</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## ⚡ `PINNED FLAGSHIP SYSTEMS`
+## ⚡ The Forward Deployed Engineering Playbook
+
+How I take complex, unstructured client problems and engineer them into reliable production software:
+
+| Phase | Operating Principle | How It Translates in My Work |
+|:---|:---|:---|
+| **1. Problem Discovery & Constraints** | Understand domain pain without assuming off-the-shelf software fits. | Identified physical 144-byte NFC limits (`Ghost-Tag`), uncompressed gigabyte bio-sequences (`Genome_Firewall`), and clinical attention dilution in 24k token records (`CareSentry`). |
+| **2. Bespoke Systems Architecture** | Write custom algorithms where generic abstractions cause latency or security leaks. | Built zero-copy virtual memory mappers, 4-ary genomic prefix tries, Cauchy Reed-Solomon erasure coding over $\mathrm{GF}(2^8)$, and PyTorch attention-hook estimators. |
+| **3. Reliability & Defensive Hardening** | Verify systems mathematically under adversarial and offline conditions. | 347 Jest unit tests, 130 clinical evaluation tests, CodeQL/TruffleHog security gates, and SHA-256 chained audit logs. |
+| **4. Operational Delivery** | Deliver accessible, cross-platform client interfaces for end users. | Shipped WebCrypto web clients, desktop PC/SC hardware bridges, interactive Gradio clinician dashboards, and Groq-accelerated executive interfaces. |
+
+---
+
+## 🚀 Pinned Flagship Systems
 
 <table width="100%">
   <tr>
@@ -68,17 +89,15 @@
       <h3>🔐 <a href="https://github.com/FROSTY-MUG/Ghost-Tag">Ghost-Tag</a></h3>
       <p><b>Offline-First Zero-Knowledge Encrypted NFC Vault System</b></p>
       <ul>
-        <li><b>Hardware Cryptography:</b> AES-256-GCM authenticated envelopes written to physical NTAG213/215/216 tags with independent byte read-back verification.</li>
-        <li><b>Two-Tier Key Hierarchy:</b> Master passphrase derives ephemeral KEK via Argon2id; unique 256-bit CSPRNG DEKs per vault wrapped at rest. Plaintexts zeroized in memory.</li>
-        <li><b>Cauchy Reed-Solomon Erasure Coding:</b> Fault-tolerant sharding over $\mathrm{GF}(2^8)$ across tag clusters for resilient recovery of damaged or lost tags.</li>
-        <li><b>Cross-Platform Interfaces:</b> Android, Web, and desktop Ghost Bridge for local PC/SC + PN532 hardware transceivers.</li>
-        <li><b>Rigorous Quality Gates:</b> 347 Jest unit tests across 26 suites, 22 PN532 serial tests, CodeQL scanning, and TruffleHog secret leak prevention.</li>
+        <li><b>Customer Problem:</b> Physical NFC tags (NTAG213/215/216) are unencrypted, constrained (144–888 bytes), and vulnerable to RF sniffing and physical wear.</li>
+        <li><b>Delivered Solution:</b> Client-side AES-256-GCM encryption with Argon2id ephemeral key derivation, NDEF authenticated ciphertext envelopes, and Cauchy Reed-Solomon $(N, K)$ multi-tag erasure coding.</li>
+        <li><b>FDE Hardware Bridge:</b> Cross-platform Android app, browser WebCrypto client, and desktop Ghost Bridge for local PC/SC and PN532 transceivers.</li>
+        <li><b>Verification Evidence:</b> 347 Jest tests across 26 suites, 22 PN532 serial tests, CodeQL scanning, and TruffleHog secret leak prevention.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Crypto-AES--256--GCM-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/KDF-Argon2id-critical?style=flat-square" />
         <img src="https://img.shields.io/badge/Hardware-NFC_PC%2FSC-darkgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Tests-347_Passed-brightgreen?style=flat-square" />
       </p>
@@ -87,16 +106,15 @@
       <h3>🧬 <a href="https://github.com/FROSTY-MUG/Genome_Firewall">Genome_Firewall</a></h3>
       <p><b>High-Throughput Multithreaded C++ Biosecurity & AMR Defense Engine</b></p>
       <ul>
-        <li><b>Zero-Copy Memory-Mapped Parsing:</b> Custom <code>FastaMmapParser</code> using virtual memory pages (<code>mmap</code> / Win32) with 64 KB chunking and overlap buffers.</li>
-        <li><b>Genomic Prefix Trie & Arena Allocator:</b> 40-byte genomic node with 8 KB arena block allocator, indexing 4,500,462 trie nodes from the 455-marker CARD catalog.</li>
-        <li><b>Fast Rejection & Mutation Search:</b> 1 MB Bloom filter (3 hash functions) for $O(1)$ negative sequence rejection with Hamming distance $\le 1$ SNP tolerance.</li>
-        <li><b>Lock-Free Multithreading:</b> Concurrent sliding-window 21-mer scoring via native OS threads, immutable trie reads, and atomic counters.</li>
-        <li><b>Verified Benchmark Gains:</b> On AMD Ryzen 5 (GCC 6.3 <code>-O3</code>), reduced trie memory by 78.3%, cut scan time by 12x, and cut total wall-clock time by 3.4x over v1.0 baseline.</li>
+        <li><b>Customer Problem:</b> Bacterial superbug detection in raw gigabyte FASTA sequences requires fast, low-cost screening that cannot rely on heavy cloud Python runtimes.</li>
+        <li><b>Delivered Solution:</b> Pure C/C++14 engine with zero-copy memory-mapped file parsing (`CreateFileMapping`/`mmap`), 64 KB chunking, custom 40-byte 4-ary genomic prefix trie, and an 8 KB arena block allocator.</li>
+        <li><b>Algorithmic Performance:</b> 1 MB Bloom filter for $O(1)$ fast negative rejection, Hamming distance $\le 1$ SNP tolerance, and lock-free atomic multithreaded scoring.</li>
+        <li><b>Benchmarked Gains:</b> AMD Ryzen 5 benchmark showed 78.3% trie memory reduction, 12x faster scan time, and 3.4x overall speedup over v1.0 baseline.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B14-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/IO-POSIX_mmap-teal?style=flat-square" />
-        <img src="https://img.shields.io/badge/Structure-4--ary_Trie-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Memory-Zero--Copy_mmap-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Structure-Prefix_Trie-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Filter-Bloom_Filter-crimson?style=flat-square" />
         <img src="https://img.shields.io/badge/Speedup-3.4x_v2.0-orange?style=flat-square" />
       </p>
@@ -107,11 +125,10 @@
       <h3>🩺 <a href="https://github.com/FROSTY-MUG/CareSentry">CareSentry</a></h3>
       <p><b>Deterministic Attention-Anchored Safety Harness for Medical LLMs</b></p>
       <ul>
-        <li><b>Attention Probing & Z-Score Scoring:</b> PyTorch forward hooks extract multi-head attention weights across final decision layers. Blockwise estimator runs in $O(S \cdot K)$ memory for contexts up to 24,000 tokens.</li>
-        <li><b>Clinical Invariant Engine:</b> Automated invariant checking for cross-reactivity, renal dosing (Cockcroft-Gault CrCl & CKD-EPI 2021), Beers Criteria, and reverse omissions across 180+ drug aliases (RxNorm Lite & WHO-ATC).</li>
-        <li><b>Inference-Time Guardrails:</b> Prompt-injection defense (jailbreaks, roleplay, delimiter spoofing), invariant-guided constrained prefix-trie decoding, and a SHA-256 chained audit trail (2.47 ms CPU latency).</li>
-        <li><b>Extensible Interfaces:</b> Gradio UI, OpenAI-compatible proxy gateway, Model Context Protocol (MCP) server, and 3 Agent Skills specifications.</li>
-        <li><b>Verified Testing:</b> 130 tests across all tracks (100% passing) evaluated on synthetic clinical test records for air-gapped deployment.</li>
+        <li><b>Customer Problem:</b> Enterprise clinical models suffer from attention dilution in long patient histories, causing missed contraindications and hallucinated orders.</li>
+        <li><b>Delivered Solution:</b> PyTorch forward hooks extract multi-head attention weights across decision layers; blockwise $O(S \cdot K)$ memory bounding evaluates contexts up to 24,000 tokens with depth-stratified z-score controls.</li>
+        <li><b>Clinical Invariant Engine:</b> Automated invariant matrix evaluating drug-allergy cross-reactivity, renal dosing (CrCl/eGFR), Beers Criteria, and reverse omissions across 180+ drug aliases via RxNorm Lite and WHO-ATC.</li>
+        <li><b>Inference Guardrails:</b> Prompt-injection defense, invariant-guided constrained prefix-trie decoding, and a SHA-256 chained audit trail (2.47 ms CPU latency).</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -125,10 +142,10 @@
       <h3>📈 <a href="https://github.com/FROSTY-MUG/FPA">FPA (FP&A Studio)</a></h3>
       <p><b>Real-Time Financial Planning & Analysis Dashboard Powered by Groq & Pinecone</b></p>
       <ul>
-        <li><b>Lineage & Recognition:</b> Direct evolution of Aryan's 1st-place winning architecture from IIT Roorkee FinCortex (200+ competing engineering teams).</li>
-        <li><b>Ultra-Low-Latency Inference:</b> Integrates Groq LPU inference for instant financial statement line-item analysis and sensitivity forecasting.</li>
-        <li><b>Hybrid AI & Vector Search:</b> Combines Pinecone vector database embeddings with Google GenAI SDK and Mistral for contextual financial insight retrieval.</li>
-        <li><b>Interactive Financial UI:</b> Full-stack Next.js dashboard with structured ledger visualization, automated scenario modeling, and financial metric telemetry.</li>
+        <li><b>Customer Problem:</b> Corporate FP&A teams spend days consolidating unstructured financial reports and modeling sensitivity scenarios with high manual latency.</li>
+        <li><b>Delivered Solution:</b> Direct evolution of 1st-place winning architecture from IIT Roorkee FinCortex (200+ teams). Combines Groq LPU inference with Pinecone vector embeddings for sub-second financial sensitivity forecasting.</li>
+        <li><b>Multi-Model Orchestration:</b> Coordinates Google GenAI, Groq LPU, and Mistral models to ingest financial balance sheets, calculate variances, and explain anomalies.</li>
+        <li><b>Executive Dashboard:</b> Production Next.js console with real-time financial metrics, automated scenario forecasting, and interactive chart telemetry.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -143,24 +160,24 @@
 
 ---
 
-## 🏆 `HACKATHON HONORS & VERIFIED ACHIEVEMENTS`
+## 🏆 Hackathon Championship Track Record
 
 <p align="left">
-Key engineering accomplishments delivered under competitive high-intensity deadlines:
+Demonstrated capability to understand enterprise problem statements, architect full systems, and win top national technical competitions under tight deadlines:
 </p>
 
-- 🥇 **IIT Roorkee FinCortex &mdash; 1st Place Champion:** Architected and deployed a multi-model financial intelligence dashboard with consensus verification under a strict 72-hour constraint (200+ competing engineering teams).
-- 🥇 **IEEE Logixcape &mdash; 1st Place Champion:** Ranked 1st across 3 rounds of advanced algorithmic puzzle solving, systems logic, and rapid debugging among 300+ participants.
-- 🥇 **Kindle Junior 4.0 (IEEE - GEU) &mdash; 1st Place Champion:** Designed and delivered an AI assessment and career recommendation workflow with multi-stage LLM evaluation pipelines.
-- 🥇 **DigiTech Titans &mdash; 1st Place Champion:** Solved 8 intensive full-stack and systems engineering challenges in 84 minutes, placing 1st in accuracy and execution velocity.
+- 🥇 **IIT Roorkee FinCortex &mdash; 1st Place Champion:** Architected and deployed a multi-model financial intelligence dashboard with consensus verification in a 72-hour sprint against 200+ engineering teams.
+- 🥇 **IEEE Logixcape &mdash; 1st Place Champion:** Ranked 1st across 3 technical rounds covering advanced algorithmic puzzle solving, systems logic, and rapid debugging among 300+ participants.
+- 🥇 **Kindle Junior 4.0 (IEEE - GEU) &mdash; 1st Place Champion:** Delivered an AI student evaluation and career recommendation pipeline with multi-stage LLM evaluation workflows.
+- 🥇 **DigiTech Titans &mdash; 1st Place Champion:** Solved 8 intensive systems and full-stack challenges in 84 minutes, placing 1st in accuracy and execution velocity.
 
 ---
 
-## 🛠️ `TECH STACK & CAPABILITY MATRIX`
+## 🛠️ Technical Capabilities & Tooling
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Core Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,python,cpp,c,rust,js,bash,kotlin,swift&theme=dark" alt="Languages" />
 </p>
@@ -170,10 +187,10 @@ Key engineering accomplishments delivered under competitive high-intensity deadl
   <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,vite,tailwind,docker,linux&theme=dark" alt="Systems & Backend" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Memory_Mapping-mmap_%2F_Win32-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NFC_Protocols-PC%2FSC_%26_PN532-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Concurrency-Lock--Free_Atomics-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Protocol-MCP-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Virtual_Memory-mmap_%2F_Win32-teal?style=flat-square" />
+  <img src="https://img.shields.io/badge/NFC_Protocols-PC%2FSC_%26_PN532-darkgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Concurrency-Lock--Free_Atomics-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Protocol-MCP-purple?style=flat-square" />
 </p>
 
 ### 🧠 Applied AI, Cryptography & Databases
@@ -181,26 +198,26 @@ Key engineering accomplishments delivered under competitive high-intensity deadl
   <img src="https://skillicons.dev/icons?i=pytorch,postgres,supabase,firebase,sqlite&theme=dark" alt="AI & Databases" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cryptography-AES--256--GCM_%26_Argon2id-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Erasure_Coding-Cauchy_Reed--Solomon-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_DB-Pinecone-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inference-Groq_LPU-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cryptography-AES--256--GCM_%26_Argon2id-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Erasure_Coding-Cauchy_Reed--Solomon-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DB-Pinecone-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Inference-Groq_LPU-F55036?style=flat-square" />
 </p>
 
-### 🧪 Testing, CI/CD & Security Audits
+### 🧪 Quality Engineering & Security Audits
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jest,githubactions,git,vscode&theme=dark" alt="DevOps & Quality" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Testing-347_Jest_+_130_Pytest-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AppSec-CodeQL_%26_TruffleHog-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automated_Tests-347_Jest_+_130_Pytest-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/AppSec-CodeQL_%26_TruffleHog-blue?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## 📊 `GITHUB TELEMETRY & ACTIVITY METRICS`
+## 📊 Live GitHub Activity & Telemetry
 
 <div align="center">
 
@@ -245,7 +262,7 @@ Key engineering accomplishments delivered under competitive high-intensity deadl
 
 ---
 
-## 🌐 `TRANSMISSION CHANNELS // GET IN TOUCH`
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -255,20 +272,17 @@ Key engineering accomplishments delivered under competitive high-intensity deadl
 
 <p align="center">
   <a href="https://linkedin.com/in/aryanaroracs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryan_Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan_Arora-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:aryanarora26110@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aryanarora26110@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-aryanarora26110@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/FROSTY-MUG">
-    <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-FROSTY--MUG-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<!-- Footer Wave / Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=120&section=footer&fontColor=ffffff" width="100%" alt="Footer Banner" />
 
 <p align="center">
   <sub>Last refreshed automatically from public GitHub activity via GitHub Actions on P26-11-25<!-- END:LAST_UPDATED -->.</sub>
