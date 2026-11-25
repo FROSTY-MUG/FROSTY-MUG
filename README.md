@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Executive Header Banner -->
-<img src="assets/header.svg" width="100%" alt="Aryan Arora - Forward Deployed Engineer" />
+<img src="https://raw.githubusercontent.com/FROSTY-MUG/FROSTY-MUG/main/header.png" width="100%" alt="Aryan Arora - Forward Deployed Engineer" />
 
 <p align="center">
   <a href="https://github.com/FROSTY-MUG">
