@@ -9,7 +9,7 @@
     "following": 1,
     "avatar_url": "https://avatars.githubusercontent.com/u/77809425?v=4",
     "profile_url": "https://github.com/FROSTY-MUG",
-    "harvested_at": "2026-11-25T15:52:22.720530+00:00",
+    "harvested_at": "2026-11-26T05:40:27.683311+00:00",
     "total_stars": 5,
     "total_forks": 11
   },
@@ -17,17 +17,17 @@
     {
       "language": "TypeScript",
       "bytes": 1801893,
-      "percentage": 37.52
+      "percentage": 37.5
     },
     {
       "language": "Python",
-      "bytes": 1058480,
+      "bytes": 1059114,
       "percentage": 22.04
     },
     {
       "language": "JavaScript",
-      "bytes": 647001,
-      "percentage": 13.47
+      "bytes": 646921,
+      "percentage": 13.46
     },
     {
       "language": "C++",
@@ -41,13 +41,13 @@
     },
     {
       "language": "HTML",
-      "bytes": 138022,
-      "percentage": 2.87
+      "bytes": 139622,
+      "percentage": 2.91
     },
     {
       "language": "CSS",
-      "bytes": 120385,
-      "percentage": 2.51
+      "bytes": 121304,
+      "percentage": 2.52
     },
     {
       "language": "C",
@@ -282,34 +282,34 @@
       "open_issues": 0,
       "primary_language": "HTML",
       "languages": {
-        "HTML": 27514,
-        "CSS": 14067,
-        "Python": 10799,
-        "JavaScript": 3983
+        "HTML": 29114,
+        "CSS": 14986,
+        "Python": 11433,
+        "JavaScript": 3903
       },
       "topics": [],
       "created_at": "2026-07-27T17:28:10Z",
       "updated_at": "2026-11-25T15:31:38Z",
-      "pushed_at": "2026-11-25T15:52:05Z",
+      "pushed_at": "2026-11-25T20:50:31Z",
       "default_branch": "main",
       "recent_commits": [
+        {
+          "sha": "1d30785",
+          "message": "fix: use raw GitHub CDN URL and high-DPI header.png for guaranteed profile header rendering",
+          "date": "2026-11-25T15:55:28Z",
+          "author": "Aryan Arora"
+        },
+        {
+          "sha": "b49617e",
+          "message": "chore: refresh portfolio telemetry from GitHub [skip ci]",
+          "date": "2026-11-25T15:52:22Z",
+          "author": "github-actions[bot]"
+        },
         {
           "sha": "5619fb5",
           "message": "fix: replace header banner with local vector SVG, format pinned telemetry table, and remove heading emojis",
           "date": "2026-11-25T15:51:52Z",
           "author": "Aryan Arora"
-        },
-        {
-          "sha": "9ebf449",
-          "message": "feat: bespoke executive FDE styling, Forward Deployed Engineering Playbook, and refined visual hierarchy",
-          "date": "2026-11-25T15:46:00Z",
-          "author": "Aryan Arora"
-        },
-        {
-          "sha": "7e3521f",
-          "message": "chore: refresh portfolio telemetry from GitHub [skip ci]",
-          "date": "2026-11-25T15:40:37Z",
-          "author": "github-actions[bot]"
         }
       ],
       "is_pinned": false
